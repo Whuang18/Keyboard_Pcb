@@ -1,9 +1,9 @@
-[submodule "shared/random-keyboard-parts.pretty"]
-	path = shared/random-keyboard-parts.pretty
+[submodule "masterzen_tutorial_pcb_design/shared/random-keyboard-parts.pretty"]
+	path = masterzen_tutorial_pcb_design/shared/random-keyboard-parts.pretty
 	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
-[submodule "shared/Type-C.pretty"]
-	path = shared/Type-C.pretty
+[submodule "masterzen_tutorial_pcb_design/shared/Type-C.pretty"]
+	path = masterzen_tutorial_pcb_design/shared/Type-C.pretty
 	url = https://github.com/ai03-2725/Type-C.pretty.git
-[submodule "shared/MX_Alps_Hybrid"]
-	path = shared/MX_Alps_Hybrid
+[submodule "masterzen_tutorial_pcb_design/shared/MX_Alps_Hybrid"]
+	path = masterzen_tutorial_pcb_design/shared/MX_Alps_Hybrid
 	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
