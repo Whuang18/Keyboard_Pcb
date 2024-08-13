@@ -3032,6 +3032,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 58.42) (xy 77.47 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51c042a1-02ef-4354-b46e-212f8e995142")
+	)
+	(wire
+		(pts
 			(xy 251.46 41.91) (xy 251.46 46.99)
 		)
 		(stroke
@@ -3139,6 +3149,16 @@
 			(type default)
 		)
 		(uuid "752ec22f-522f-43f9-bb20-44ab28ab4db3")
+	)
+	(wire
+		(pts
+			(xy 55.88 60.96) (xy 77.47 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7582d897-251a-4f7c-8c00-eacdc055ceaa")
 	)
 	(wire
 		(pts
@@ -3588,6 +3608,28 @@
 	)
 	(global_label "D+"
 		(shape input)
+		(at 77.47 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9b5bdf55-cf30-4b68-ac0f-e122d10fdb2e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 83.2976 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "D+"
+		(shape input)
 		(at 238.76 80.01 180)
 		(fields_autoplaced yes)
 		(effects
@@ -3643,6 +3685,28 @@
 		(uuid "aff0467e-9bb2-45bf-b836-d15a6792ce06")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 199.2303 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "D-"
+		(shape input)
+		(at 77.47 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b7496a0e-8574-4660-bc08-3c3ab79a4409")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 83.2976 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3806,7 +3870,7 @@
 			)
 		)
 	)
-	(global_label "RST"
+	(global_label "RESET"
 		(shape input)
 		(at 238.76 54.61 180)
 		(fields_autoplaced yes)
@@ -3818,7 +3882,7 @@
 		)
 		(uuid "fc8fce6e-ad9a-4fca-98ba-74598a3ddcd3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 232.3277 54.61 0)
+			(at 230.0297 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3978,7 +4042,7 @@
 			(uuid "f1954f88-8fae-4dc9-b578-4e7e300b245b")
 		)
 		(instances
-			(project ""
+			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd"
 					(reference "#PWR013")
 					(unit 1)
@@ -4517,7 +4581,7 @@
 			(uuid "4874f600-8ad8-4c8f-9f29-31201af40fa1")
 		)
 		(instances
-			(project ""
+			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd"
 					(reference "R4")
 					(unit 1)
@@ -4654,7 +4718,7 @@
 			(uuid "46bc4d8f-3276-466e-9f23-1ab0307b24e3")
 		)
 		(instances
-			(project ""
+			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd"
 					(reference "#PWR012")
 					(unit 1)
@@ -5342,7 +5406,7 @@
 			(uuid "4c36b156-6de1-4660-8d5d-07221ba3d14c")
 		)
 		(instances
-			(project ""
+			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd"
 					(reference "R3")
 					(unit 1)
@@ -5694,7 +5758,7 @@
 			(uuid "b6b0d478-fa99-48db-99bc-904cf2ab8e7b")
 		)
 		(instances
-			(project ""
+			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd"
 					(reference "F1")
 					(unit 1)
