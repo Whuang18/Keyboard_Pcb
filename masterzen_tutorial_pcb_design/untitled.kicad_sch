@@ -327,12 +327,6 @@
 		(uuid "0598ecc5-eaf8-43f6-9722-f77863c82cbb")
 	)
 	(junction
-		(at 241.3 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "05c42518-50e4-4ecb-86ef-109bf9692037")
-	)
-	(junction
 		(at 147.32 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -367,12 +361,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "132abff1-7bc0-472e-b582-951daac7c443")
-	)
-	(junction
-		(at 199.39 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "13a3a295-c269-4190-90ca-10d4950b7260")
 	)
 	(junction
 		(at 231.14 135.89)
@@ -421,12 +409,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a6abb39-6d3c-418d-8b78-fdeceee37a9f")
-	)
-	(junction
-		(at 101.6 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1d1f9042-a95d-4745-999a-1e63f6dbf7ce")
 	)
 	(junction
 		(at 189.23 67.31)
@@ -519,22 +501,10 @@
 		(uuid "3e43c6b8-eb5d-41d9-8a58-5d8edf9234d7")
 	)
 	(junction
-		(at 129.54 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3e743bf7-2614-4c72-885a-1484c231126b")
-	)
-	(junction
 		(at 231.14 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3e745fc6-3f71-464a-9838-bb41af1d7ff2")
-	)
-	(junction
-		(at 217.17 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3f006c5e-46e1-4140-a1d5-cf105266d514")
 	)
 	(junction
 		(at 255.27 105.41)
@@ -547,12 +517,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "410a6c88-9ceb-4e5f-a225-6dfb9582eeb2")
-	)
-	(junction
-		(at 241.3 82.55)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "424a669c-da5a-410c-873e-6e1e6a64df3c")
 	)
 	(junction
 		(at 105.41 158.75)
@@ -589,18 +553,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4a053aac-20ba-4056-b0fe-a316aea4cdb7")
-	)
-	(junction
-		(at 231.14 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4eaeaad9-2a30-4e7d-a578-3089c9a0e4b2")
-	)
-	(junction
-		(at 77.47 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4f4b6150-de79-4c3b-a350-5d410ef3b1f9")
 	)
 	(junction
 		(at 115.57 105.41)
@@ -663,12 +615,6 @@
 		(uuid "5a33a7b3-6290-4926-bb97-20bd63a40fc6")
 	)
 	(junction
-		(at 87.63 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5c009fac-08f6-401f-9f56-d0ed3c5f1867")
-	)
-	(junction
 		(at 175.26 158.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -711,12 +657,6 @@
 		(uuid "62685f9d-e220-42bd-8a75-58f5018a3880")
 	)
 	(junction
-		(at 189.23 135.89)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "62e8b643-f85e-4061-bc5d-dda91ebd8333")
-	)
-	(junction
 		(at 189.23 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -757,12 +697,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6dea37d3-c72d-4b6c-8eec-59dca1d32146")
-	)
-	(junction
-		(at 147.32 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6f3f9503-1716-4b95-bf08-ca9729c1d0be")
 	)
 	(junction
 		(at 77.47 90.17)
@@ -811,12 +745,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "758dea44-11bd-4e87-a4be-e1dac8a17833")
-	)
-	(junction
-		(at 119.38 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "77960e87-e6f2-4168-8081-335ac2928827")
 	)
 	(junction
 		(at 105.41 44.45)
@@ -909,12 +837,6 @@
 		(uuid "87abfde8-97f6-4280-a766-5110dda8ad20")
 	)
 	(junction
-		(at 91.44 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8a447727-5eed-41be-a6b1-c9b3d7cfb3dd")
-	)
-	(junction
 		(at 133.35 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -943,12 +865,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "907b6ccb-73c1-48d7-9bc9-dac62b16b4db")
-	)
-	(junction
-		(at 217.17 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "95bd56a6-d297-4cbd-bbab-3c3a7783bf4b")
 	)
 	(junction
 		(at 129.54 82.55)
@@ -999,12 +915,6 @@
 		(uuid "a0425d6e-0f71-45d3-80e6-b61385177c74")
 	)
 	(junction
-		(at 227.33 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a1ec048d-9762-4bb4-a950-ac4db6a9783b")
-	)
-	(junction
 		(at 241.3 151.13)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1041,24 +951,6 @@
 		(uuid "a797cf64-877a-4304-b003-6850a9598dbe")
 	)
 	(junction
-		(at 143.51 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a7dc18f1-dd55-4e63-ad17-6e4d4cf472c6")
-	)
-	(junction
-		(at 231.14 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a9700293-ca4a-45a3-be86-2825279938f5")
-	)
-	(junction
-		(at 241.3 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "aa6ef7d3-0f13-4448-bca5-4398c6d14244")
-	)
-	(junction
 		(at 147.32 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1081,12 +973,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "acfc1fa9-830b-47b1-a21c-a6f102b8fe4f")
-	)
-	(junction
-		(at 157.48 151.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ae6f6718-6882-4122-b108-b7d9055d2c4d")
 	)
 	(junction
 		(at 105.41 135.89)
@@ -1123,12 +1009,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b2f23471-f3f3-4b3a-a61d-3125800192e1")
-	)
-	(junction
-		(at 189.23 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b9dec168-72ba-4a54-954e-6ba01eab469f")
 	)
 	(junction
 		(at 185.42 82.55)
@@ -1233,12 +1113,6 @@
 		(uuid "cf40a8d7-6121-474b-ab07-e43b3338054c")
 	)
 	(junction
-		(at 227.33 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d0016863-c71a-4e4e-9d08-ca8dd4d40e92")
-	)
-	(junction
 		(at 101.6 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1257,12 +1131,6 @@
 		(uuid "daec8138-dbab-402c-a122-978c3ce72f3b")
 	)
 	(junction
-		(at 199.39 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "db925ec4-1209-4e60-995e-8d0ca1ac8cf3")
-	)
-	(junction
 		(at 245.11 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1279,12 +1147,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ddfa1901-157c-4083-b6eb-8ac98214776f")
-	)
-	(junction
-		(at 231.14 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "de7f30cb-10dc-44cb-ac89-e3e8c29179a7")
 	)
 	(junction
 		(at 213.36 82.55)
@@ -1351,12 +1213,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7b636ec-308d-4b88-b82d-4cfbcaf16723")
-	)
-	(junction
-		(at 133.35 158.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e8c201ce-11c8-49b0-9faa-c0655f6e5a88")
 	)
 	(junction
 		(at 133.35 67.31)
@@ -1462,7 +1318,7 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 151.13) (xy 143.51 165.1)
+			(xy 143.51 128.27) (xy 143.51 165.1)
 		)
 		(stroke
 			(width 0)
@@ -1542,7 +1398,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 36.83) (xy 241.3 59.69)
+			(xy 241.3 36.83) (xy 241.3 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1612,16 +1468,6 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 67.31) (xy 231.14 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a0187f7-2449-493a-8d44-034f3e54b38b")
-	)
-	(wire
-		(pts
 			(xy 91.44 67.31) (xy 105.41 67.31)
 		)
 		(stroke
@@ -1652,16 +1498,6 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 158.75) (xy 147.32 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1fd06278-8527-497e-af9a-32a3001be748")
-	)
-	(wire
-		(pts
 			(xy 199.39 27.94) (xy 199.39 36.83)
 		)
 		(stroke
@@ -1679,26 +1515,6 @@
 			(type default)
 		)
 		(uuid "2442ff01-5822-4b52-9af7-170fa938489a")
-	)
-	(wire
-		(pts
-			(xy 87.63 151.13) (xy 87.63 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25e3a3dd-d690-425b-801d-6ebfb4267bc0")
-	)
-	(wire
-		(pts
-			(xy 217.17 113.03) (xy 231.14 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25f12248-0057-42fd-8f2b-e91ce47c1518")
 	)
 	(wire
 		(pts
@@ -1762,7 +1578,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 128.27) (xy 101.6 151.13)
+			(xy 101.6 128.27) (xy 101.6 165.1)
 		)
 		(stroke
 			(width 0)
@@ -1822,7 +1638,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 128.27) (xy 157.48 151.13)
+			(xy 157.48 128.27) (xy 157.48 165.1)
 		)
 		(stroke
 			(width 0)
@@ -1859,16 +1675,6 @@
 			(type default)
 		)
 		(uuid "331dcd1d-e3dc-4351-9899-f03dd6c10c5f")
-	)
-	(wire
-		(pts
-			(xy 77.47 158.75) (xy 91.44 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "345561cc-67e4-4d2a-9b42-1b937f70b6f2")
 	)
 	(wire
 		(pts
@@ -1922,23 +1728,13 @@
 	)
 	(wire
 		(pts
-			(xy 87.63 128.27) (xy 87.63 151.13)
+			(xy 87.63 128.27) (xy 87.63 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "3837db73-e52a-4e4b-a88e-b2ef4a6e3d95")
-	)
-	(wire
-		(pts
-			(xy 241.3 59.69) (xy 241.3 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "38688ad9-e59c-4e5a-9939-124c0d4ba06f")
 	)
 	(wire
 		(pts
@@ -1982,16 +1778,6 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 158.75) (xy 161.29 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b40392f-6b13-4b36-9377-0758d2934d8a")
-	)
-	(wire
-		(pts
 			(xy 45.72 105.41) (xy 45.72 128.27)
 		)
 		(stroke
@@ -2012,7 +1798,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 82.55) (xy 227.33 105.41)
+			(xy 227.33 82.55) (xy 227.33 151.13)
 		)
 		(stroke
 			(width 0)
@@ -2062,16 +1848,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 105.41) (xy 241.3 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40f3e1b2-8fdb-44b6-90c7-c1b7ff9c0da5")
-	)
-	(wire
-		(pts
 			(xy 227.33 59.69) (xy 227.33 82.55)
 		)
 		(stroke
@@ -2082,7 +1858,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 158.75) (xy 189.23 158.75)
+			(xy 175.26 158.75) (xy 203.2 158.75)
 		)
 		(stroke
 			(width 0)
@@ -2122,7 +1898,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 135.89) (xy 203.2 135.89)
+			(xy 175.26 135.89) (xy 203.2 135.89)
 		)
 		(stroke
 			(width 0)
@@ -2232,16 +2008,6 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 135.89) (xy 217.17 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5cb4b821-e0ee-4c44-a8b0-9d635ba6cd51")
-	)
-	(wire
-		(pts
 			(xy 115.57 105.41) (xy 115.57 128.27)
 		)
 		(stroke
@@ -2282,7 +2048,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 113.03) (xy 245.11 113.03)
+			(xy 203.2 113.03) (xy 245.11 113.03)
 		)
 		(stroke
 			(width 0)
@@ -2302,7 +2068,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 158.75) (xy 133.35 158.75)
+			(xy 105.41 158.75) (xy 161.29 158.75)
 		)
 		(stroke
 			(width 0)
@@ -2322,7 +2088,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 67.31) (xy 245.11 67.31)
+			(xy 217.17 67.31) (xy 245.11 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2379,16 +2145,6 @@
 			(type default)
 		)
 		(uuid "6db1eb20-f263-4423-b50d-b61e41bdee58")
-	)
-	(wire
-		(pts
-			(xy 199.39 151.13) (xy 199.39 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e4ea2ec-68bc-4e77-8409-920858b4680b")
 	)
 	(wire
 		(pts
@@ -2462,16 +2218,6 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 113.03) (xy 217.17 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "781114b2-0dd6-4acd-99d1-a3c3d855a9ef")
-	)
-	(wire
-		(pts
 			(xy 189.23 90.17) (xy 203.2 90.17)
 		)
 		(stroke
@@ -2512,16 +2258,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 158.75) (xy 203.2 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7e6e2c14-a70c-4636-86b0-595cb743ef37")
-	)
-	(wire
-		(pts
 			(xy 73.66 59.69) (xy 73.66 82.55)
 		)
 		(stroke
@@ -2529,16 +2265,6 @@
 			(type default)
 		)
 		(uuid "8091529a-c8ac-48d3-bbe6-134ded812c96")
-	)
-	(wire
-		(pts
-			(xy 143.51 128.27) (xy 143.51 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "811e0c07-9e10-4377-8e37-1bb333ebe4a6")
 	)
 	(wire
 		(pts
@@ -2562,27 +2288,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 128.27) (xy 227.33 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "862717fc-600f-4b58-9d13-0b27e6d9bb8a")
-	)
-	(wire
-		(pts
-			(xy 227.33 105.41) (xy 227.33 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86e47c7e-d8eb-4dd8-b5cd-54399119c0d9")
-	)
-	(wire
-		(pts
-			(xy 63.5 158.75) (xy 77.47 158.75)
+			(xy 63.5 158.75) (xy 105.41 158.75)
 		)
 		(stroke
 			(width 0)
@@ -2672,16 +2378,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 82.55) (xy 241.3 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "95de65a4-ccb4-417f-a786-d32b6c670a86")
-	)
-	(wire
-		(pts
 			(xy 245.11 44.45) (xy 259.08 44.45)
 		)
 		(stroke
@@ -2699,16 +2395,6 @@
 			(type default)
 		)
 		(uuid "9663f619-454e-4934-a9d4-cc56db240b94")
-	)
-	(wire
-		(pts
-			(xy 101.6 151.13) (xy 101.6 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "968cae74-8cfb-4896-9f9d-470cfa73143d")
 	)
 	(wire
 		(pts
@@ -3042,16 +2728,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 135.89) (xy 189.23 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c842e1e2-1d94-40c7-b783-e74361eeacf1")
-	)
-	(wire
-		(pts
 			(xy 101.6 36.83) (xy 101.6 59.69)
 		)
 		(stroke
@@ -3082,16 +2758,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 128.27) (xy 199.39 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd2172f3-0fa9-4a51-8714-0c28aa1c8696")
-	)
-	(wire
-		(pts
 			(xy 77.47 90.17) (xy 91.44 90.17)
 		)
 		(stroke
@@ -3112,23 +2778,13 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 105.41) (xy 199.39 128.27)
+			(xy 199.39 105.41) (xy 199.39 165.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "d050cf4f-d1a1-4111-81f1-849ef21d3cf7")
-	)
-	(wire
-		(pts
-			(xy 217.17 90.17) (xy 231.14 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d2080384-cacb-4de0-a826-78dc5b930f6d")
 	)
 	(wire
 		(pts
@@ -3212,16 +2868,6 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 151.13) (xy 129.54 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e26f7b69-f29f-462a-abed-13c560d3471f")
-	)
-	(wire
-		(pts
 			(xy 45.72 27.94) (xy 45.72 36.83)
 		)
 		(stroke
@@ -3229,26 +2875,6 @@
 			(type default)
 		)
 		(uuid "e3c9d926-2989-4a1e-8b5e-677d53f3b5b8")
-	)
-	(wire
-		(pts
-			(xy 105.41 158.75) (xy 119.38 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4395ef7-5e10-4372-8f0d-ac924cb70f05")
-	)
-	(wire
-		(pts
-			(xy 91.44 158.75) (xy 105.41 158.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e60ebdcf-d48f-4c26-96f1-77fdda1d6e64")
 	)
 	(wire
 		(pts
@@ -3262,7 +2888,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 135.89) (xy 231.14 135.89)
+			(xy 203.2 135.89) (xy 231.14 135.89)
 		)
 		(stroke
 			(width 0)
@@ -3342,16 +2968,6 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 151.13) (xy 157.48 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f1c4ef63-60dc-47c7-aea1-2327e113b625")
-	)
-	(wire
-		(pts
 			(xy 231.14 158.75) (xy 245.11 158.75)
 		)
 		(stroke
@@ -3362,7 +2978,7 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 128.27) (xy 129.54 151.13)
+			(xy 129.54 128.27) (xy 129.54 165.1)
 		)
 		(stroke
 			(width 0)
@@ -3402,7 +3018,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 90.17) (xy 245.11 90.17)
+			(xy 217.17 90.17) (xy 245.11 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3510,6 +3126,490 @@
 		)
 		(uuid "ff81f9ee-ac0f-4429-95a6-ba07b45d6b59")
 	)
+	(global_label "col14"
+		(shape input)
+		(at 241.3 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "109a1997-8a4f-4d96-9c52-4a1d2765468c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 241.3 19.633 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row4"
+		(shape input)
+		(at 35.56 135.89 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1aa7ddc9-7e9c-4213-8a75-56653749835e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.0996 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row1"
+		(shape input)
+		(at 35.56 67.31 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "232c23c7-2596-40dd-86e9-f82a222c6d26")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.0996 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col13"
+		(shape input)
+		(at 227.33 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2a49130a-7ba4-4b55-b8ed-b5bed99fadf3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 227.33 19.633 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col2"
+		(shape input)
+		(at 73.66 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2dbb90e2-ffa4-4db4-a92d-e22525776fd4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 73.66 20.8425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col12"
+		(shape input)
+		(at 213.36 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "32661402-b53b-49cc-bf4f-b55233de9b31")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 213.36 19.633 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col11"
+		(shape input)
+		(at 199.39 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4b975e80-63ab-4d2a-bbe6-b2d539a90f07")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 199.39 19.633 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col7"
+		(shape input)
+		(at 143.51 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "693e8cc7-f2cb-4045-a350-d79534b450b1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 143.51 20.8425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col5"
+		(shape input)
+		(at 115.57 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "70519118-499a-4c41-988d-a38e26cf3a5a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 115.57 20.8425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col1"
+		(shape input)
+		(at 59.69 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "747ad9d5-1123-4570-b1e3-aa99ab829a72")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 59.69 20.8425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row2"
+		(shape input)
+		(at 35.56 90.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7562fbda-a921-4eee-a769-9bfe5ef57179")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.0996 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col6"
+		(shape input)
+		(at 129.54 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "83aa2f5d-bd29-4c08-9a88-494b92183886")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 129.54 20.8425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col0"
+		(shape input)
+		(at 45.72 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "866f10d0-b6a4-407f-93d4-389a75520a47")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 45.72 20.8425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col15"
+		(shape input)
+		(at 255.27 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8da8df8f-b873-4d7a-b073-a6dba4458f8f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 255.27 19.633 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row0"
+		(shape input)
+		(at 35.56 44.45 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a4e9473b-91e4-4bed-b5a1-39326772f907")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.0996 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col10"
+		(shape input)
+		(at 185.42 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "aea8abd7-6fd3-4d9f-9791-b58a0f6e091a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 185.42 19.633 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col9"
+		(shape input)
+		(at 171.45 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b690a35a-295f-4cd8-bef2-2d7206b3d328")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 171.45 20.8425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row5"
+		(shape input)
+		(at 35.56 158.75 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bb648214-c641-4631-8fe0-8260be9fe683")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.0996 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col3"
+		(shape input)
+		(at 87.63 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c5d29aa9-0787-4688-a5b0-582303e68c5b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.63 20.8425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col4"
+		(shape input)
+		(at 101.6 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ce930ce6-7f5b-4be3-9679-1c16e72f765a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.6 20.8425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "row3"
+		(shape input)
+		(at 35.56 113.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dec09472-db5a-4f61-8cfa-ac39e514068f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 28.0996 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "col8"
+		(shape input)
+		(at 157.48 27.94 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e495898e-3e6f-4c88-a95f-c925651a5372")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 157.48 20.8425 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 250.19 36.83 0)
@@ -3545,7 +3645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Delete/Insert"
 			(at 250.19 31.75 0)
 			(effects
 				(font
@@ -3588,7 +3688,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02555b5b-e1eb-4610-a28e-d533333801b3")
-		(property "Reference" "SW66"
+		(property "Reference" "SW62"
 			(at 54.61 120.65 0)
 			(effects
 				(font
@@ -3613,7 +3713,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Z"
 			(at 54.61 123.19 0)
 			(effects
 				(font
@@ -3640,7 +3740,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW66")
+					(reference "SW62")
 					(unit 1)
 				)
 			)
@@ -3656,7 +3756,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04d4d247-357d-4e1c-9cdf-748b621130e5")
-		(property "Reference" "SW55"
+		(property "Reference" "SW53"
 			(at 124.46 97.79 0)
 			(effects
 				(font
@@ -3681,7 +3781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "H"
 			(at 124.46 100.33 0)
 			(effects
 				(font
@@ -3708,7 +3808,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW55")
+					(reference "SW53")
 					(unit 1)
 				)
 			)
@@ -3749,7 +3849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Backspace"
 			(at 222.25 54.61 0)
 			(effects
 				(font
@@ -3792,7 +3892,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "068aee5a-00d5-4e55-ad58-085a7ec98f38")
-		(property "Reference" "SW48"
+		(property "Reference" "SW46"
 			(at 250.19 74.93 0)
 			(effects
 				(font
@@ -3817,7 +3917,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Page Up"
 			(at 250.19 77.47 0)
 			(effects
 				(font
@@ -3844,75 +3944,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW48")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 152.4 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "095fea6d-7d01-4787-92ab-c442ac5eefc1")
-		(property "Reference" "SW89"
-			(at 152.4 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 152.4 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 152.4 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 152.4 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 152.4 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d42cb407-35e6-4107-b338-6f4c2a05b97a")
-		)
-		(pin "1"
-			(uuid "6b4d0292-0e13-4a7d-a7be-70f13dfdec62")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW89")
+					(reference "SW46")
 					(unit 1)
 				)
 			)
@@ -3928,7 +3960,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0986b4f4-d1bf-44a5-bb66-4954c5fd6644")
-		(property "Reference" "D34"
+		(property "Reference" "D33"
 			(at 52.07 85.0899 90)
 			(effects
 				(font
@@ -4000,7 +4032,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D34")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -4016,7 +4048,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0989e296-9f81-4196-8a62-e7e078c42e0a")
-		(property "Reference" "D65"
+		(property "Reference" "D61"
 			(at 38.1 130.8099 90)
 			(effects
 				(font
@@ -4088,75 +4120,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D65")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 236.22 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0c3dad77-6603-42bc-96fe-5ae73837bd15")
-		(property "Reference" "SW63"
-			(at 236.22 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 236.22 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 236.22 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 236.22 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "3ff8db3b-27d5-4fab-b1b0-0402e57fc1a6")
-		)
-		(pin "1"
-			(uuid "3d13551d-214e-47dd-8f28-86152f0c9bbe")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW63")
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -4172,7 +4136,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0defca74-f080-4305-9df2-86706088e88f")
-		(property "Reference" "D75"
+		(property "Reference" "D71"
 			(at 177.8 130.8099 90)
 			(effects
 				(font
@@ -4244,7 +4208,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D75")
+					(reference "D71")
 					(unit 1)
 				)
 			)
@@ -4348,7 +4312,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "104b74d5-f6ff-4fcf-b731-79e22c14eefb")
-		(property "Reference" "SW95"
+		(property "Reference" "SW83"
 			(at 236.22 143.51 0)
 			(effects
 				(font
@@ -4373,7 +4337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "down"
 			(at 236.22 146.05 0)
 			(effects
 				(font
@@ -4400,7 +4364,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW95")
+					(reference "SW83")
 					(unit 1)
 				)
 			)
@@ -4416,7 +4380,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13dd2d1f-49f9-4f47-9263-7f8fff5ceff2")
-		(property "Reference" "D91"
+		(property "Reference" "D80"
 			(at 177.8 153.6699 90)
 			(effects
 				(font
@@ -4488,7 +4452,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D91")
+					(reference "D80")
 					(unit 1)
 				)
 			)
@@ -4617,7 +4581,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "6"
 			(at 124.46 54.61 0)
 			(effects
 				(font
@@ -4660,7 +4624,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16c5c502-bee8-4265-85a3-982c4070efc4")
-		(property "Reference" "SW35"
+		(property "Reference" "SW34"
 			(at 68.58 74.93 0)
 			(effects
 				(font
@@ -4685,7 +4649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "W"
 			(at 68.58 77.47 0)
 			(effects
 				(font
@@ -4712,7 +4676,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW35")
+					(reference "SW34")
 					(unit 1)
 				)
 			)
@@ -4816,7 +4780,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16fe5405-9fc9-4333-b057-9fe32f38dc44")
-		(property "Reference" "D35"
+		(property "Reference" "D34"
 			(at 66.04 85.0899 90)
 			(effects
 				(font
@@ -4888,95 +4852,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 231.14 109.22 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "18408f84-5bfb-4ec6-a906-10a3c613cc61")
-		(property "Reference" "D63"
-			(at 233.68 107.9499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 233.68 110.4899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 231.14 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 231.14 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 231.14 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 231.14 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4053de25-6a7b-4ee8-8077-62e2511466d5")
-		)
-		(pin "2"
-			(uuid "787fad29-1634-48a8-a47d-2eb596a94cc6")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D63")
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -5168,7 +5044,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c3cba36-0ec3-448d-91d4-bb3f3db4bb44")
-		(property "Reference" "D71"
+		(property "Reference" "D67"
 			(at 121.92 130.8099 90)
 			(effects
 				(font
@@ -5240,143 +5116,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D71")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 124.46 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1eb2e623-3fd9-42b4-a2b9-861ba17310cb")
-		(property "Reference" "SW87"
-			(at 124.46 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 124.46 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 124.46 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 124.46 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 124.46 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c2458f6c-671a-4618-bea9-a89ff86aeecc")
-		)
-		(pin "1"
-			(uuid "dd9936aa-b3d7-4610-9fae-837a319391e3")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW87")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 222.25 128.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1f2dff67-18ab-47a6-9880-a2e647aac9a7")
-		(property "Reference" "SW78"
-			(at 222.25 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 222.25 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 222.25 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 222.25 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 222.25 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "fb991c35-015a-4cb7-8b6f-82f34ef84d6e")
-		)
-		(pin "1"
-			(uuid "37f82f57-bb83-4a32-93fe-9b6eddc54ba9")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW78")
+					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -5392,7 +5132,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f8e23b2-23d1-470f-9e69-e1c8aac1f07b")
-		(property "Reference" "D68"
+		(property "Reference" "D64"
 			(at 80.01 130.8099 90)
 			(effects
 				(font
@@ -5464,7 +5204,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D68")
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -5647,94 +5387,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 147.32 154.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "23816192-9d18-4c98-ad11-2d708b3f51b5")
-		(property "Reference" "D89"
-			(at 149.86 153.6699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 149.86 156.2099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 147.32 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 147.32 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 147.32 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 147.32 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 147.32 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4444514c-cfd1-41c0-9315-ac676639f875")
-		)
-		(pin "2"
-			(uuid "35bd6d59-d96a-4f03-8154-bb7c5df7c816")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D89")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 180.34 82.55 0)
 		(unit 1)
@@ -5744,7 +5396,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26ebc12c-19df-4735-b753-78e3238020ec")
-		(property "Reference" "SW43"
+		(property "Reference" "SW42"
 			(at 180.34 74.93 0)
 			(effects
 				(font
@@ -5769,7 +5421,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "P"
 			(at 180.34 77.47 0)
 			(effects
 				(font
@@ -5796,7 +5448,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW43")
+					(reference "SW42")
 					(unit 1)
 				)
 			)
@@ -5812,7 +5464,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27831afd-08f3-4fe1-ae43-0e07d3e28121")
-		(property "Reference" "SW71"
+		(property "Reference" "SW67"
 			(at 124.46 120.65 0)
 			(effects
 				(font
@@ -5837,7 +5489,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "N"
 			(at 124.46 123.19 0)
 			(effects
 				(font
@@ -5864,7 +5516,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW71")
+					(reference "SW67")
 					(unit 1)
 				)
 			)
@@ -5880,7 +5532,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27a8fb37-e147-4278-b0b1-b8557c41d531")
-		(property "Reference" "D86"
+		(property "Reference" "D78"
 			(at 107.95 153.6699 90)
 			(effects
 				(font
@@ -5952,7 +5604,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D86")
+					(reference "D78")
 					(unit 1)
 				)
 			)
@@ -6056,7 +5708,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bf9e978-3bb6-4f3f-9010-d992c6d8a233")
-		(property "Reference" "D56"
+		(property "Reference" "D54"
 			(at 135.89 107.9499 90)
 			(effects
 				(font
@@ -6128,75 +5780,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D56")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 236.22 82.55 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2e95952a-af98-4d40-83f0-13e41e7203d9")
-		(property "Reference" "SW47"
-			(at 236.22 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 236.22 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 236.22 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 236.22 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2b0d69ad-2755-43cc-96db-429eac29275a")
-		)
-		(pin "1"
-			(uuid "ac1414f8-b791-424a-980f-016b57bd2aa7")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW47")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -6212,7 +5796,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f14ae36-3437-436f-8e3e-0986135aa9f4")
-		(property "Reference" "D50"
+		(property "Reference" "D48"
 			(at 52.07 107.9499 90)
 			(effects
 				(font
@@ -6284,7 +5868,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D50")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -6325,7 +5909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "F5"
 			(at 110.49 31.75 0)
 			(effects
 				(font
@@ -6481,7 +6065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "F1"
 			(at 54.61 31.75 0)
 			(effects
 				(font
@@ -6524,7 +6108,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33c6c3a1-ea67-4e7a-845a-93de8fd0abad")
-		(property "Reference" "D82"
+		(property "Reference" "D76"
 			(at 52.07 153.6699 90)
 			(effects
 				(font
@@ -6596,7 +6180,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D82")
+					(reference "D76")
 					(unit 1)
 				)
 			)
@@ -6685,74 +6269,6 @@
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
 					(reference "D30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 194.31 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "39ccc3c4-ccb1-489c-8001-99df9fecfd5f")
-		(property "Reference" "SW92"
-			(at 194.31 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 194.31 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 194.31 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 194.31 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 194.31 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ca6e1201-8686-4453-b48b-146779d1b538")
-		)
-		(pin "1"
-			(uuid "83b32062-df82-4cfc-837a-81088f9825b3")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW92")
 					(unit 1)
 				)
 			)
@@ -6856,7 +6372,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f5c28ce-694c-4528-bc4f-18a9264a53a5")
-		(property "Reference" "SW90"
+		(property "Reference" "SW79"
 			(at 166.37 143.51 0)
 			(effects
 				(font
@@ -6881,7 +6397,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "r Alt"
 			(at 166.37 146.05 0)
 			(effects
 				(font
@@ -6908,7 +6424,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW90")
+					(reference "SW79")
 					(unit 1)
 				)
 			)
@@ -7004,74 +6520,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 96.52 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "41d8171f-a5b7-4953-a232-78f3eebc158a")
-		(property "Reference" "SW85"
-			(at 96.52 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 96.52 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 96.52 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 96.52 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 96.52 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "eca7ce56-1f74-4e2c-83f9-f157852dfadb")
-		)
-		(pin "1"
-			(uuid "5cdb5b3f-e63a-4ccb-b17f-1e01f0a50e15")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW85")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 194.31 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7105,7 +6553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "F11"
 			(at 194.31 31.75 0)
 			(effects
 				(font
@@ -7148,7 +6596,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42e32f89-4409-4134-b592-73ec03843160")
-		(property "Reference" "SW72"
+		(property "Reference" "SW68"
 			(at 138.43 120.65 0)
 			(effects
 				(font
@@ -7173,7 +6621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "M"
 			(at 138.43 123.19 0)
 			(effects
 				(font
@@ -7200,7 +6648,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW72")
+					(reference "SW68")
 					(unit 1)
 				)
 			)
@@ -7216,7 +6664,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45753857-3060-472a-b6af-7f6e6d87f0ab")
-		(property "Reference" "SW75"
+		(property "Reference" "SW71"
 			(at 180.34 120.65 0)
 			(effects
 				(font
@@ -7241,7 +6689,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "/"
 			(at 180.34 123.19 0)
 			(effects
 				(font
@@ -7268,7 +6716,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW75")
+					(reference "SW71")
 					(unit 1)
 				)
 			)
@@ -7372,7 +6820,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47383acd-8916-4739-b4f5-8712720b6c3b")
-		(property "Reference" "SW83"
+		(property "Reference" "SW77"
 			(at 68.58 143.51 0)
 			(effects
 				(font
@@ -7397,7 +6845,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Alt"
 			(at 68.58 146.05 0)
 			(effects
 				(font
@@ -7424,7 +6872,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW83")
+					(reference "SW77")
 					(unit 1)
 				)
 			)
@@ -7440,7 +6888,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4938dab7-7026-4c69-b6dc-9c79c3598cbe")
-		(property "Reference" "SW49"
+		(property "Reference" "SW47"
 			(at 40.64 97.79 0)
 			(effects
 				(font
@@ -7465,7 +6913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Caps Lock"
 			(at 40.64 100.33 0)
 			(effects
 				(font
@@ -7492,7 +6940,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW49")
+					(reference "SW47")
 					(unit 1)
 				)
 			)
@@ -7508,7 +6956,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "497a0cf7-2119-4ee2-8c7d-0f914c4d21d2")
-		(property "Reference" "D80"
+		(property "Reference" "D74"
 			(at 247.65 130.8099 90)
 			(effects
 				(font
@@ -7580,7 +7028,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D80")
+					(reference "D74")
 					(unit 1)
 				)
 			)
@@ -7596,7 +7044,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52c0af6d-37c4-410c-b2cf-0df70ed6ca9c")
-		(property "Reference" "D70"
+		(property "Reference" "D66"
 			(at 107.95 130.8099 90)
 			(effects
 				(font
@@ -7668,7 +7116,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D70")
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -7684,7 +7132,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5326601d-a5ad-4e31-979d-aa27e3c46604")
-		(property "Reference" "D58"
+		(property "Reference" "D56"
 			(at 163.83 107.9499 90)
 			(effects
 				(font
@@ -7756,7 +7204,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D58")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -7772,7 +7220,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53e938b7-159d-408c-9e43-70064bc273ce")
-		(property "Reference" "D72"
+		(property "Reference" "D68"
 			(at 135.89 130.8099 90)
 			(effects
 				(font
@@ -7844,7 +7292,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D72")
+					(reference "D68")
 					(unit 1)
 				)
 			)
@@ -7860,7 +7308,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55ba52f7-d767-45dd-87dc-8c0782d9d201")
-		(property "Reference" "SW94"
+		(property "Reference" "SW82"
 			(at 222.25 143.51 0)
 			(effects
 				(font
@@ -7885,7 +7333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "left"
 			(at 222.25 146.05 0)
 			(effects
 				(font
@@ -7912,7 +7360,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW94")
+					(reference "SW82")
 					(unit 1)
 				)
 			)
@@ -7928,7 +7376,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56aba4f6-d0bd-494d-928a-bb3893ef086a")
-		(property "Reference" "D59"
+		(property "Reference" "D57"
 			(at 177.8 107.9499 90)
 			(effects
 				(font
@@ -8000,75 +7448,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D59")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 82.55 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "56b01ca5-309f-442c-a66d-cc133dfba10d")
-		(property "Reference" "SW84"
-			(at 82.55 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 82.55 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 82.55 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 82.55 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 82.55 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "412d3ac8-3c24-4085-a3bd-d10c911ed238")
-		)
-		(pin "1"
-			(uuid "277a830e-a5d6-469c-82d5-580ba4616b9d")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW84")
+					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -8084,7 +7464,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58130246-2ef4-43c9-bc98-ea2e9167d89a")
-		(property "Reference" "SW64"
+		(property "Reference" "SW60"
 			(at 250.19 97.79 0)
 			(effects
 				(font
@@ -8109,7 +7489,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Page Down"
 			(at 250.19 100.33 0)
 			(effects
 				(font
@@ -8136,7 +7516,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW64")
+					(reference "SW60")
 					(unit 1)
 				)
 			)
@@ -8177,7 +7557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "F9"
 			(at 166.37 31.75 0)
 			(effects
 				(font
@@ -8245,7 +7625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "2"
 			(at 68.58 54.61 0)
 			(effects
 				(font
@@ -8376,7 +7756,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f3fb7c7-f3a1-4b7d-ad13-f3b06c295b0b")
-		(property "Reference" "D94"
+		(property "Reference" "D82"
 			(at 219.71 153.6699 90)
 			(effects
 				(font
@@ -8448,7 +7828,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D94")
+					(reference "D82")
 					(unit 1)
 				)
 			)
@@ -8464,7 +7844,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f99dede-26a7-4c21-9be9-9e595609fdbd")
-		(property "Reference" "D53"
+		(property "Reference" "D51"
 			(at 93.98 107.9499 90)
 			(effects
 				(font
@@ -8536,7 +7916,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D53")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -8665,7 +8045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "j-"
 			(at 194.31 54.61 0)
 			(effects
 				(font
@@ -8699,94 +8079,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 231.14 63.5 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "669853e1-a65f-49bb-9a5b-2211f5c8ca22")
-		(property "Reference" "D31"
-			(at 233.68 62.2299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 233.68 64.7699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 231.14 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 231.14 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 231.14 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 231.14 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "92c8cbaf-6f26-4122-9685-a156aa39b13b")
-		)
-		(pin "2"
-			(uuid "e1b45ab8-0133-4360-b8dc-90942d49cf48")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 54.61 151.13 0)
 		(unit 1)
@@ -8796,7 +8088,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67151b09-fd27-4ca4-841e-bbebc8814290")
-		(property "Reference" "SW82"
+		(property "Reference" "SW76"
 			(at 54.61 143.51 0)
 			(effects
 				(font
@@ -8821,7 +8113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Win"
 			(at 54.61 146.05 0)
 			(effects
 				(font
@@ -8848,7 +8140,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW82")
+					(reference "SW76")
 					(unit 1)
 				)
 			)
@@ -8952,7 +8244,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "698c188f-22a8-4eac-9fa1-fee24ed2fb46")
-		(property "Reference" "SW52"
+		(property "Reference" "SW50"
 			(at 82.55 97.79 0)
 			(effects
 				(font
@@ -8977,7 +8269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "D"
 			(at 82.55 100.33 0)
 			(effects
 				(font
@@ -9004,7 +8296,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW52")
+					(reference "SW50")
 					(unit 1)
 				)
 			)
@@ -9020,7 +8312,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6cda5f76-aa88-46fd-a223-4e6f6c54ea8c")
-		(property "Reference" "SW86"
+		(property "Reference" "SW78"
 			(at 110.49 143.51 0)
 			(effects
 				(font
@@ -9045,7 +8337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Spacebar"
 			(at 110.49 146.05 0)
 			(effects
 				(font
@@ -9072,7 +8364,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW86")
+					(reference "SW78")
 					(unit 1)
 				)
 			)
@@ -9088,7 +8380,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6da1dcfb-9bf5-4666-9fcb-b93b24d59425")
-		(property "Reference" "D51"
+		(property "Reference" "D49"
 			(at 66.04 107.9499 90)
 			(effects
 				(font
@@ -9160,7 +8452,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D51")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -9344,74 +8636,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 138.43 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7140d5aa-0109-45b6-8033-65c8f43a11a4")
-		(property "Reference" "SW88"
-			(at 138.43 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 138.43 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 138.43 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 138.43 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 138.43 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "2fe84f45-140a-466a-a6f4-15ef9f8eab7e")
-		)
-		(pin "1"
-			(uuid "9f342ac6-1e54-43a4-a0e4-ba97202dabb0")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW88")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 110.49 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9420,7 +8644,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71f62f12-3fbb-49b9-8539-d97bf0ac3693")
-		(property "Reference" "SW70"
+		(property "Reference" "SW66"
 			(at 110.49 120.65 0)
 			(effects
 				(font
@@ -9445,7 +8669,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "B"
 			(at 110.49 123.19 0)
 			(effects
 				(font
@@ -9472,163 +8696,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW70")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 194.31 128.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "735506c8-cf0f-4b59-95ff-7a970f58fe25")
-		(property "Reference" "SW76"
-			(at 194.31 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 194.31 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 194.31 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 194.31 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 194.31 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "f6b37d8f-372a-40e3-bd9b-592e72cdecf1")
-		)
-		(pin "1"
-			(uuid "1ae59adf-b37c-4cbb-b1e8-d5025de144e8")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW76")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 77.47 154.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "738bd02e-05ed-49dd-9b51-efd61f707e35")
-		(property "Reference" "D84"
-			(at 80.01 153.6699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 80.01 156.2099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 77.47 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 77.47 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 77.47 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 77.47 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 77.47 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ef082538-02b9-4e78-9b17-6ada2a26e020")
-		)
-		(pin "2"
-			(uuid "4323e5d6-fbda-4ce3-a77f-58d80690180a")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D84")
+					(reference "SW66")
 					(unit 1)
 				)
 			)
@@ -9644,7 +8712,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75241cd7-b5f4-4edd-ae91-33540278f862")
-		(property "Reference" "D44"
+		(property "Reference" "D43"
 			(at 191.77 85.0899 90)
 			(effects
 				(font
@@ -9716,95 +8784,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 231.14 86.36 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "76bf24d5-911e-4f94-b2e2-213445e2e613")
-		(property "Reference" "D47"
-			(at 233.68 85.0899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 233.68 87.6299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 231.14 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 231.14 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 231.14 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 231.14 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 231.14 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5ec896da-8da6-475d-8400-f155b7e2197c")
-		)
-		(pin "2"
-			(uuid "df1edef7-2664-40b3-9bbb-0b451c696a82")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D47")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -9820,7 +8800,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76cf71b3-63be-466f-ba93-50966e8ecd71")
-		(property "Reference" "D69"
+		(property "Reference" "D65"
 			(at 93.98 130.8099 90)
 			(effects
 				(font
@@ -9892,7 +8872,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D69")
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -9908,7 +8888,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7722d07d-0a8f-45b2-9e9e-86461798ea51")
-		(property "Reference" "D83"
+		(property "Reference" "D77"
 			(at 66.04 153.6699 90)
 			(effects
 				(font
@@ -9980,7 +8960,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D83")
+					(reference "D77")
 					(unit 1)
 				)
 			)
@@ -9996,7 +8976,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77af2b12-3555-4278-ae4e-e372d9c800f2")
-		(property "Reference" "SW39"
+		(property "Reference" "SW38"
 			(at 124.46 74.93 0)
 			(effects
 				(font
@@ -10021,7 +9001,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Y"
 			(at 124.46 77.47 0)
 			(effects
 				(font
@@ -10048,7 +9028,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW39")
+					(reference "SW38")
 					(unit 1)
 				)
 			)
@@ -10064,7 +9044,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78189572-dcbb-412c-bcd8-5d269a871a11")
-		(property "Reference" "SW34"
+		(property "Reference" "SW33"
 			(at 54.61 74.93 0)
 			(effects
 				(font
@@ -10089,7 +9069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Q"
 			(at 54.61 77.47 0)
 			(effects
 				(font
@@ -10116,7 +9096,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW34")
+					(reference "SW33")
 					(unit 1)
 				)
 			)
@@ -10132,7 +9112,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78b5d345-485f-4d72-99a7-98f0bb5b2510")
-		(property "Reference" "D32"
+		(property "Reference" "D31"
 			(at 247.65 62.2299 90)
 			(effects
 				(font
@@ -10204,7 +9184,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D32")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -10220,7 +9200,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79842d1d-f368-4e0a-8f0e-e09d1569be0f")
-		(property "Reference" "D96"
+		(property "Reference" "D84"
 			(at 247.65 153.6699 90)
 			(effects
 				(font
@@ -10292,7 +9272,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D96")
+					(reference "D84")
 					(unit 1)
 				)
 			)
@@ -10333,7 +9313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Pause/SrLk"
 			(at 236.22 31.75 0)
 			(effects
 				(font
@@ -10376,7 +9356,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ac61754-602c-46c9-be96-698a9ce33441")
-		(property "Reference" "SW74"
+		(property "Reference" "SW70"
 			(at 166.37 120.65 0)
 			(effects
 				(font
@@ -10401,7 +9381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "."
 			(at 166.37 123.19 0)
 			(effects
 				(font
@@ -10428,7 +9408,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW74")
+					(reference "SW70")
 					(unit 1)
 				)
 			)
@@ -10444,7 +9424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b0ca5f2-168f-4cee-9642-f5301fe87d51")
-		(property "Reference" "D64"
+		(property "Reference" "D60"
 			(at 247.65 107.9499 90)
 			(effects
 				(font
@@ -10516,7 +9496,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D64")
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -10532,7 +9512,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b31b59e-d06a-4c28-b861-61ab1bfa3a9f")
-		(property "Reference" "SW93"
+		(property "Reference" "SW81"
 			(at 208.28 143.51 0)
 			(effects
 				(font
@@ -10557,7 +9537,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "r Ctrl"
 			(at 208.28 146.05 0)
 			(effects
 				(font
@@ -10584,7 +9564,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW93")
+					(reference "SW81")
 					(unit 1)
 				)
 			)
@@ -10600,7 +9580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bd3095a-9267-4caf-968d-952e07bba93b")
-		(property "Reference" "SW54"
+		(property "Reference" "SW52"
 			(at 110.49 97.79 0)
 			(effects
 				(font
@@ -10625,7 +9605,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "G"
 			(at 110.49 100.33 0)
 			(effects
 				(font
@@ -10652,7 +9632,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW54")
+					(reference "SW52")
 					(unit 1)
 				)
 			)
@@ -10668,7 +9648,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d1f13b1-29a1-4e28-9fc6-a12d6241c299")
-		(property "Reference" "SW46"
+		(property "Reference" "SW45"
 			(at 222.25 74.93 0)
 			(effects
 				(font
@@ -10693,7 +9673,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "\\"
 			(at 222.25 77.47 0)
 			(effects
 				(font
@@ -10720,95 +9700,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 217.17 132.08 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7da491ba-5833-4fb0-a8b3-6e375d39c328")
-		(property "Reference" "D78"
-			(at 219.71 130.8099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 219.71 133.3499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 217.17 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 217.17 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 217.17 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 217.17 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c95e70e9-d1ea-47f3-bdc0-2404a82ee9c3")
-		)
-		(pin "2"
-			(uuid "a0ef4d5f-d002-4044-b57a-be2a2f3ca645")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D78")
+					(reference "SW45")
 					(unit 1)
 				)
 			)
@@ -10824,7 +9716,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7dac6e9e-8da5-4a00-b450-44a4c30459e9")
-		(property "Reference" "SW58"
+		(property "Reference" "SW56"
 			(at 166.37 97.79 0)
 			(effects
 				(font
@@ -10849,7 +9741,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "L"
 			(at 166.37 100.33 0)
 			(effects
 				(font
@@ -10876,7 +9768,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW58")
+					(reference "SW56")
 					(unit 1)
 				)
 			)
@@ -10917,7 +9809,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "F12"
 			(at 208.28 31.75 0)
 			(effects
 				(font
@@ -10985,7 +9877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "="
 			(at 208.28 54.61 0)
 			(effects
 				(font
@@ -11028,7 +9920,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87cac6dd-1a5b-4efc-88dc-b64ef8a2f300")
-		(property "Reference" "SW80"
+		(property "Reference" "SW74"
 			(at 250.19 120.65 0)
 			(effects
 				(font
@@ -11053,7 +9945,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "End"
 			(at 250.19 123.19 0)
 			(effects
 				(font
@@ -11080,7 +9972,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW80")
+					(reference "SW74")
 					(unit 1)
 				)
 			)
@@ -11096,7 +9988,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "885a926f-2bfa-444e-9cfe-0487537b28dc")
-		(property "Reference" "D38"
+		(property "Reference" "D37"
 			(at 107.95 85.0899 90)
 			(effects
 				(font
@@ -11168,7 +10060,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D38")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -11184,7 +10076,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8964c308-95a2-4c5c-8075-1f6e8be6dd7b")
-		(property "Reference" "SW81"
+		(property "Reference" "SW75"
 			(at 40.64 143.51 0)
 			(effects
 				(font
@@ -11209,7 +10101,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Ctrl"
 			(at 40.64 146.05 0)
 			(effects
 				(font
@@ -11236,7 +10128,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW81")
+					(reference "SW75")
 					(unit 1)
 				)
 			)
@@ -11252,7 +10144,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a7669ec-ff21-477a-8f7f-5220d4d68e29")
-		(property "Reference" "SW91"
+		(property "Reference" "SW80"
 			(at 180.34 143.51 0)
 			(effects
 				(font
@@ -11277,7 +10169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Fn"
 			(at 180.34 146.05 0)
 			(effects
 				(font
@@ -11304,7 +10196,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW91")
+					(reference "SW80")
 					(unit 1)
 				)
 			)
@@ -11345,7 +10237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "7"
 			(at 138.43 54.61 0)
 			(effects
 				(font
@@ -11388,7 +10280,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b78a476-c033-4453-8c12-155206d7f5d3")
-		(property "Reference" "SW37"
+		(property "Reference" "SW36"
 			(at 96.52 74.93 0)
 			(effects
 				(font
@@ -11413,7 +10305,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "R"
 			(at 96.52 77.47 0)
 			(effects
 				(font
@@ -11440,7 +10332,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW37")
+					(reference "SW36")
 					(unit 1)
 				)
 			)
@@ -11481,7 +10373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "PrtSc NmLk"
 			(at 222.25 31.75 0)
 			(effects
 				(font
@@ -11524,7 +10416,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "915a3c57-f250-4826-be10-0c6304901336")
-		(property "Reference" "SW44"
+		(property "Reference" "SW43"
 			(at 194.31 74.93 0)
 			(effects
 				(font
@@ -11549,7 +10441,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "["
 			(at 194.31 77.47 0)
 			(effects
 				(font
@@ -11576,7 +10468,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW44")
+					(reference "SW43")
 					(unit 1)
 				)
 			)
@@ -11592,7 +10484,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9440b984-f236-4abc-8baa-caf0de1eef19")
-		(property "Reference" "D54"
+		(property "Reference" "D52"
 			(at 107.95 107.9499 90)
 			(effects
 				(font
@@ -11664,7 +10556,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D54")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -11680,7 +10572,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "960abb8b-f983-4f3e-87c8-e99bfe61ab2e")
-		(property "Reference" "D45"
+		(property "Reference" "D44"
 			(at 205.74 85.0899 90)
 			(effects
 				(font
@@ -11752,7 +10644,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D45")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -11768,7 +10660,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9880417a-dc26-4776-82ff-f1f58c7f5502")
-		(property "Reference" "SW33"
+		(property "Reference" "SW32"
 			(at 40.64 74.93 0)
 			(effects
 				(font
@@ -11793,7 +10685,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Tab"
 			(at 40.64 77.47 0)
 			(effects
 				(font
@@ -11820,7 +10712,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW33")
+					(reference "SW32")
 					(unit 1)
 				)
 			)
@@ -11836,7 +10728,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98bcc0b4-060f-4d16-b3e7-c0c6fe21dbf3")
-		(property "Reference" "SW65"
+		(property "Reference" "SW61"
 			(at 40.64 120.65 0)
 			(effects
 				(font
@@ -11861,7 +10753,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Shift"
 			(at 40.64 123.19 0)
 			(effects
 				(font
@@ -11888,7 +10780,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW65")
+					(reference "SW61")
 					(unit 1)
 				)
 			)
@@ -12017,7 +10909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "3"
 			(at 82.55 54.61 0)
 			(effects
 				(font
@@ -12085,7 +10977,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "F6"
 			(at 124.46 31.75 0)
 			(effects
 				(font
@@ -12120,74 +11012,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 222.25 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9b3da227-c2de-4f36-9ed5-efaf9f7f0c25")
-		(property "Reference" "SW62"
-			(at 222.25 97.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 222.25 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 222.25 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 222.25 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 222.25 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "04ed3bee-b029-4e14-99ae-1d03d050b3ef")
-		)
-		(pin "1"
-			(uuid "85a33236-5126-4beb-9a6c-e94bfe0314f4")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 96.52 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12196,7 +11020,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b8ca08c-6f60-4052-a1b9-06a73097fd0d")
-		(property "Reference" "SW69"
+		(property "Reference" "SW65"
 			(at 96.52 120.65 0)
 			(effects
 				(font
@@ -12221,7 +11045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "V"
 			(at 96.52 123.19 0)
 			(effects
 				(font
@@ -12248,183 +11072,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW69")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 189.23 154.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a10f78a3-5d26-4671-a1c1-dd5282a1db8a")
-		(property "Reference" "D92"
-			(at 191.77 153.6699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 191.77 156.2099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 189.23 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 189.23 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 189.23 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 189.23 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 189.23 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5c595c56-60c3-4c19-8bcb-c53dd2e8d2a5")
-		)
-		(pin "2"
-			(uuid "c023e770-7fe7-4271-af5a-6f31b625ef4f")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D92")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 133.35 154.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a1b982a5-7b6f-461a-b95d-8265ec0e5afa")
-		(property "Reference" "D88"
-			(at 135.89 153.6699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 135.89 156.2099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 133.35 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 133.35 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 133.35 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 133.35 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 133.35 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e4753c8a-4b07-4e42-9757-cf05c704e9fd")
-		)
-		(pin "2"
-			(uuid "a627a815-e920-4891-a8de-f2afbc183f05")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D88")
+					(reference "SW65")
 					(unit 1)
 				)
 			)
@@ -12553,7 +11201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "F3"
 			(at 82.55 31.75 0)
 			(effects
 				(font
@@ -12596,7 +11244,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a780d66e-240a-4a84-b781-7f2a536c514b")
-		(property "Reference" "SW59"
+		(property "Reference" "SW57"
 			(at 180.34 97.79 0)
 			(effects
 				(font
@@ -12621,7 +11269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ";"
 			(at 180.34 100.33 0)
 			(effects
 				(font
@@ -12648,7 +11296,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW59")
+					(reference "SW57")
 					(unit 1)
 				)
 			)
@@ -12777,7 +11425,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "9"
 			(at 166.37 54.61 0)
 			(effects
 				(font
@@ -12820,7 +11468,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa735450-611f-4f16-a952-6878d6efaa18")
-		(property "Reference" "SW73"
+		(property "Reference" "SW69"
 			(at 152.4 120.65 0)
 			(effects
 				(font
@@ -12845,7 +11493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ","
 			(at 152.4 123.19 0)
 			(effects
 				(font
@@ -12872,7 +11520,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW73")
+					(reference "SW69")
 					(unit 1)
 				)
 			)
@@ -12888,7 +11536,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa828ffc-6825-4cd6-b5f6-3dc31e134c41")
-		(property "Reference" "D74"
+		(property "Reference" "D70"
 			(at 163.83 130.8099 90)
 			(effects
 				(font
@@ -12960,7 +11608,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D74")
+					(reference "D70")
 					(unit 1)
 				)
 			)
@@ -12976,7 +11624,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa84db0d-1114-49d5-9981-4ca8be93b310")
-		(property "Reference" "SW32"
+		(property "Reference" "SW31"
 			(at 250.19 52.07 0)
 			(effects
 				(font
@@ -13001,7 +11649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Home"
 			(at 250.19 54.61 0)
 			(effects
 				(font
@@ -13028,7 +11676,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW32")
+					(reference "SW31")
 					(unit 1)
 				)
 			)
@@ -13044,7 +11692,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad0ec975-0ee1-4f0b-a0a0-b5564d14a47e")
-		(property "Reference" "D55"
+		(property "Reference" "D53"
 			(at 121.92 107.9499 90)
 			(effects
 				(font
@@ -13116,7 +11764,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D55")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -13132,7 +11780,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad3e52a2-37a4-419f-bf07-28ea3239399c")
-		(property "Reference" "SW41"
+		(property "Reference" "SW40"
 			(at 152.4 74.93 0)
 			(effects
 				(font
@@ -13157,7 +11805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "I"
 			(at 152.4 77.47 0)
 			(effects
 				(font
@@ -13184,7 +11832,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW41")
+					(reference "SW40")
 					(unit 1)
 				)
 			)
@@ -13200,7 +11848,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "adc971e3-0239-4aa5-bbae-eb013340250d")
-		(property "Reference" "D66"
+		(property "Reference" "D62"
 			(at 52.07 130.8099 90)
 			(effects
 				(font
@@ -13272,7 +11920,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D66")
+					(reference "D62")
 					(unit 1)
 				)
 			)
@@ -13288,7 +11936,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b09bf096-88f4-448c-a39c-f538d249a681")
-		(property "Reference" "D43"
+		(property "Reference" "D42"
 			(at 177.8 85.0899 90)
 			(effects
 				(font
@@ -13360,7 +12008,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D43")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -13376,7 +12024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0ca7663-192d-467a-9827-1b6a1b46950e")
-		(property "Reference" "D39"
+		(property "Reference" "D38"
 			(at 121.92 85.0899 90)
 			(effects
 				(font
@@ -13448,7 +12096,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D39")
+					(reference "D38")
 					(unit 1)
 				)
 			)
@@ -13464,7 +12112,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b125dd4b-1c1e-4296-a776-5b669411f04a")
-		(property "Reference" "SW67"
+		(property "Reference" "SW63"
 			(at 68.58 120.65 0)
 			(effects
 				(font
@@ -13489,7 +12137,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "X"
 			(at 68.58 123.19 0)
 			(effects
 				(font
@@ -13516,7 +12164,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW67")
+					(reference "SW63")
 					(unit 1)
 				)
 			)
@@ -13532,7 +12180,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b19c5355-3656-4795-9692-0a157a764e10")
-		(property "Reference" "D46"
+		(property "Reference" "D45"
 			(at 219.71 85.0899 90)
 			(effects
 				(font
@@ -13604,7 +12252,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D46")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -13620,7 +12268,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4addf60-1853-4b38-b3d2-3f3dff479ffe")
-		(property "Reference" "D95"
+		(property "Reference" "D83"
 			(at 233.68 153.6699 90)
 			(effects
 				(font
@@ -13692,7 +12340,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D95")
+					(reference "D83")
 					(unit 1)
 				)
 			)
@@ -13796,7 +12444,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd73025c-3439-430c-bf8c-0c8c699cfa5e")
-		(property "Reference" "D67"
+		(property "Reference" "D63"
 			(at 66.04 130.8099 90)
 			(effects
 				(font
@@ -13868,7 +12516,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D67")
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -13943,94 +12591,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:D")
-		(at 217.17 109.22 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "be69798d-8961-4034-8240-ec982e5c5657")
-		(property "Reference" "D62"
-			(at 219.71 107.9499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 219.71 110.4899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 217.17 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 217.17 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 217.17 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 217.17 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 217.17 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ea6b6564-8bc1-42c6-9ad7-c76bf001dd5c")
-		)
-		(pin "2"
-			(uuid "990a4a6b-bb6c-4321-bed3-c257b7e9d5cf")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 208.28 105.41 0)
 		(unit 1)
@@ -14040,7 +12600,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bef5d183-29ec-439b-bbdb-9372b5beee1a")
-		(property "Reference" "SW61"
+		(property "Reference" "SW59"
 			(at 208.28 97.79 0)
 			(effects
 				(font
@@ -14065,7 +12625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Enter"
 			(at 208.28 100.33 0)
 			(effects
 				(font
@@ -14092,95 +12652,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW61")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 119.38 154.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bf37b628-92bd-4acf-a6d3-059564fc70b9")
-		(property "Reference" "D87"
-			(at 121.92 153.6699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 121.92 156.2099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 119.38 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 119.38 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 119.38 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 119.38 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 119.38 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d0cd1f30-7b88-4461-8076-8b3620fbeee7")
-		)
-		(pin "2"
-			(uuid "a92c10f5-825d-4f46-8b3d-1b9d1855af8f")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D87")
+					(reference "SW59")
 					(unit 1)
 				)
 			)
@@ -14196,7 +12668,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0cf045e-2ad0-4d96-ae02-12f0d673cfc7")
-		(property "Reference" "D61"
+		(property "Reference" "D59"
 			(at 205.74 107.9499 90)
 			(effects
 				(font
@@ -14268,7 +12740,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D61")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -14284,7 +12756,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c311ea03-1676-4cd1-bd7b-0a364283e692")
-		(property "Reference" "D40"
+		(property "Reference" "D39"
 			(at 135.89 85.0899 90)
 			(effects
 				(font
@@ -14356,75 +12828,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D40")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 236.22 59.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c3251097-7e2f-40c2-a3a6-0d484f3b7627")
-		(property "Reference" "SW31"
-			(at 236.22 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 236.22 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 236.22 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 236.22 54.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 236.22 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ceda765d-9aef-48de-88aa-76bec4044756")
-		)
-		(pin "1"
-			(uuid "86acf6bc-a814-4fcf-80e9-00590aa4b34d")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW31")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -14641,7 +13045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "4"
 			(at 96.52 54.61 0)
 			(effects
 				(font
@@ -14684,7 +13088,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5056c70-640a-4597-9878-c7cc23cc6ef0")
-		(property "Reference" "D37"
+		(property "Reference" "D36"
 			(at 93.98 85.0899 90)
 			(effects
 				(font
@@ -14756,7 +13160,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D37")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -14772,7 +13176,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c53d4d86-5053-40ea-b1d7-5ae025e6bb06")
-		(property "Reference" "SW45"
+		(property "Reference" "SW44"
 			(at 208.28 74.93 0)
 			(effects
 				(font
@@ -14797,7 +13201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "]"
 			(at 208.28 77.47 0)
 			(effects
 				(font
@@ -14824,7 +13228,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW45")
+					(reference "SW44")
 					(unit 1)
 				)
 			)
@@ -14865,7 +13269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "8"
 			(at 152.4 54.61 0)
 			(effects
 				(font
@@ -14908,7 +13312,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c690c686-229e-47fc-92b5-f9737783c12d")
-		(property "Reference" "SW53"
+		(property "Reference" "SW51"
 			(at 96.52 97.79 0)
 			(effects
 				(font
@@ -14933,7 +13337,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "F"
 			(at 96.52 100.33 0)
 			(effects
 				(font
@@ -14960,7 +13364,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW53")
+					(reference "SW51")
 					(unit 1)
 				)
 			)
@@ -14976,7 +13380,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c876c0bc-7d64-482d-964d-7fc2664fb57b")
-		(property "Reference" "D36"
+		(property "Reference" "D35"
 			(at 80.01 85.0899 90)
 			(effects
 				(font
@@ -15048,7 +13452,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D36")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -15064,7 +13468,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c97bdb9e-9091-4c7a-b844-d8e7281396ef")
-		(property "Reference" "SW36"
+		(property "Reference" "SW35"
 			(at 82.55 74.93 0)
 			(effects
 				(font
@@ -15089,7 +13493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "E"
 			(at 82.55 77.47 0)
 			(effects
 				(font
@@ -15116,7 +13520,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW36")
+					(reference "SW35")
 					(unit 1)
 				)
 			)
@@ -15132,7 +13536,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9c85f07-c629-4ae7-9396-2c267c84254c")
-		(property "Reference" "SW56"
+		(property "Reference" "SW54"
 			(at 138.43 97.79 0)
 			(effects
 				(font
@@ -15157,7 +13561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "J"
 			(at 138.43 100.33 0)
 			(effects
 				(font
@@ -15184,7 +13588,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW56")
+					(reference "SW54")
 					(unit 1)
 				)
 			)
@@ -15200,7 +13604,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca395da4-8397-4b57-9813-b18652784638")
-		(property "Reference" "SW77"
+		(property "Reference" "SW72"
 			(at 208.28 120.65 0)
 			(effects
 				(font
@@ -15225,7 +13629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "r Shift"
 			(at 208.28 123.19 0)
 			(effects
 				(font
@@ -15252,7 +13656,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW77")
+					(reference "SW72")
 					(unit 1)
 				)
 			)
@@ -15268,7 +13672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca81a978-c074-4c82-bc62-ed1dbd4609a0")
-		(property "Reference" "D60"
+		(property "Reference" "D58"
 			(at 191.77 107.9499 90)
 			(effects
 				(font
@@ -15340,7 +13744,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D60")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -15356,7 +13760,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb826469-ff96-4343-b93a-a3870ff82678")
-		(property "Reference" "D79"
+		(property "Reference" "D73"
 			(at 233.68 130.8099 90)
 			(effects
 				(font
@@ -15428,7 +13832,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D79")
+					(reference "D73")
 					(unit 1)
 				)
 			)
@@ -15620,7 +14024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd8b33e4-befb-4499-88b2-50b164e91cc7")
-		(property "Reference" "SW38"
+		(property "Reference" "SW37"
 			(at 110.49 74.93 0)
 			(effects
 				(font
@@ -15645,7 +14049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "T"
 			(at 110.49 77.47 0)
 			(effects
 				(font
@@ -15672,7 +14076,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW38")
+					(reference "SW37")
 					(unit 1)
 				)
 			)
@@ -15688,7 +14092,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cdbb2857-cfa7-48fa-a586-f81725140148")
-		(property "Reference" "D77"
+		(property "Reference" "D72"
 			(at 205.74 130.8099 90)
 			(effects
 				(font
@@ -15760,7 +14164,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D77")
+					(reference "D72")
 					(unit 1)
 				)
 			)
@@ -15776,7 +14180,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cfe47dbb-3689-489b-ade7-21652fb7b33a")
-		(property "Reference" "SW57"
+		(property "Reference" "SW55"
 			(at 152.4 97.79 0)
 			(effects
 				(font
@@ -15801,7 +14205,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "K"
 			(at 152.4 100.33 0)
 			(effects
 				(font
@@ -15828,7 +14232,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW57")
+					(reference "SW55")
 					(unit 1)
 				)
 			)
@@ -15844,7 +14248,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0afbccf-bbda-451d-b0d1-054b33deaedf")
-		(property "Reference" "D33"
+		(property "Reference" "D32"
 			(at 38.1 85.0899 90)
 			(effects
 				(font
@@ -15916,7 +14320,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D33")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -15957,7 +14361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "0"
 			(at 180.34 54.61 0)
 			(effects
 				(font
@@ -16000,7 +14404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6b80835-57c3-4d65-8184-645126f4884a")
-		(property "Reference" "D81"
+		(property "Reference" "D75"
 			(at 38.1 153.6699 90)
 			(effects
 				(font
@@ -16072,7 +14476,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D81")
+					(reference "D75")
 					(unit 1)
 				)
 			)
@@ -16088,7 +14492,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d861424f-6d29-45ed-a020-750cee0abc08")
-		(property "Reference" "SW79"
+		(property "Reference" "SW73"
 			(at 236.22 120.65 0)
 			(effects
 				(font
@@ -16113,7 +14517,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Up Arrow"
 			(at 236.22 123.19 0)
 			(effects
 				(font
@@ -16140,7 +14544,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW79")
+					(reference "SW73")
 					(unit 1)
 				)
 			)
@@ -16181,7 +14585,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "1"
 			(at 54.61 54.61 0)
 			(effects
 				(font
@@ -16249,7 +14653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "F7"
 			(at 138.43 31.75 0)
 			(effects
 				(font
@@ -16380,7 +14784,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da8d63b8-7dc7-4209-a624-b220cd0489bb")
-		(property "Reference" "D48"
+		(property "Reference" "D46"
 			(at 247.65 85.0899 90)
 			(effects
 				(font
@@ -16452,7 +14856,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D48")
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -16468,7 +14872,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db2e6436-46e2-4a1b-a472-13b11ba4e33f")
-		(property "Reference" "D52"
+		(property "Reference" "D50"
 			(at 80.01 107.9499 90)
 			(effects
 				(font
@@ -16540,7 +14944,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D52")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -16556,7 +14960,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db6d3ae3-82c2-48f2-8b0e-a3388735ad8c")
-		(property "Reference" "SW42"
+		(property "Reference" "SW41"
 			(at 166.37 74.93 0)
 			(effects
 				(font
@@ -16581,7 +14985,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "O"
 			(at 166.37 77.47 0)
 			(effects
 				(font
@@ -16608,7 +15012,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW42")
+					(reference "SW41")
 					(unit 1)
 				)
 			)
@@ -16624,7 +15028,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc4a59e8-4fe6-40ae-933b-0255b9b84d1b")
-		(property "Reference" "SW50"
+		(property "Reference" "SW48"
 			(at 54.61 97.79 0)
 			(effects
 				(font
@@ -16649,7 +15053,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "A"
 			(at 54.61 100.33 0)
 			(effects
 				(font
@@ -16676,7 +15080,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW50")
+					(reference "SW48")
 					(unit 1)
 				)
 			)
@@ -16692,7 +15096,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd7ce150-1f26-4fe4-881e-0c404801f3f0")
-		(property "Reference" "SW51"
+		(property "Reference" "SW49"
 			(at 68.58 97.79 0)
 			(effects
 				(font
@@ -16717,7 +15121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "S"
 			(at 68.58 100.33 0)
 			(effects
 				(font
@@ -16744,7 +15148,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW51")
+					(reference "SW49")
 					(unit 1)
 				)
 			)
@@ -16873,7 +15277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "Esc"
 			(at 40.64 31.75 0)
 			(effects
 				(font
@@ -16916,7 +15320,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df9ee621-c4e5-440e-9720-dc6351756669")
-		(property "Reference" "D73"
+		(property "Reference" "D69"
 			(at 149.86 130.8099 90)
 			(effects
 				(font
@@ -16988,7 +15392,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D73")
+					(reference "D69")
 					(unit 1)
 				)
 			)
@@ -17092,7 +15496,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e079c87f-3cac-4b06-87ba-a9b531aec1c3")
-		(property "Reference" "D41"
+		(property "Reference" "D40"
 			(at 149.86 85.0899 90)
 			(effects
 				(font
@@ -17164,7 +15568,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D41")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -17180,7 +15584,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3c9697d-8483-4cdd-b7ef-7708692c02ae")
-		(property "Reference" "D93"
+		(property "Reference" "D81"
 			(at 205.74 153.6699 90)
 			(effects
 				(font
@@ -17252,7 +15656,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D93")
+					(reference "D81")
 					(unit 1)
 				)
 			)
@@ -17268,7 +15672,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5130987-44ec-432e-8690-70345e04ddd8")
-		(property "Reference" "D90"
+		(property "Reference" "D79"
 			(at 163.83 153.6699 90)
 			(effects
 				(font
@@ -17340,7 +15744,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D90")
+					(reference "D79")
 					(unit 1)
 				)
 			)
@@ -17356,7 +15760,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6293fc5-daba-4fe1-b0d8-2f2ee1bb4a03")
-		(property "Reference" "SW96"
+		(property "Reference" "SW84"
 			(at 250.19 143.51 0)
 			(effects
 				(font
@@ -17381,7 +15785,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "right"
 			(at 250.19 146.05 0)
 			(effects
 				(font
@@ -17408,95 +15812,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW96")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 189.23 132.08 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e7622caf-e719-45de-bb3e-f3f42bac6e32")
-		(property "Reference" "D76"
-			(at 191.77 130.8099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 191.77 133.3499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 189.23 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 189.23 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 189.23 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 189.23 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 189.23 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "40d95c64-6402-48f5-a4a3-a12eb1aa5364")
-		)
-		(pin "2"
-			(uuid "33783747-8c8e-40ce-aca0-64e475170f74")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D76")
+					(reference "SW84")
 					(unit 1)
 				)
 			)
@@ -17537,7 +15853,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "5"
 			(at 110.49 54.61 0)
 			(effects
 				(font
@@ -17605,7 +15921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "F10"
 			(at 180.34 31.75 0)
 			(effects
 				(font
@@ -17648,7 +15964,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea2e5d60-e86b-4833-9b3b-0e43fd4761b3")
-		(property "Reference" "SW60"
+		(property "Reference" "SW58"
 			(at 194.31 97.79 0)
 			(effects
 				(font
@@ -17673,7 +15989,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "'"
 			(at 194.31 100.33 0)
 			(effects
 				(font
@@ -17700,7 +16016,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW60")
+					(reference "SW58")
 					(unit 1)
 				)
 			)
@@ -17716,7 +16032,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee82db95-589f-42da-ade4-83b936868544")
-		(property "Reference" "D49"
+		(property "Reference" "D47"
 			(at 38.1 107.9499 90)
 			(effects
 				(font
@@ -17788,7 +16104,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D49")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -17829,7 +16145,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "F4"
 			(at 96.52 31.75 0)
 			(effects
 				(font
@@ -17872,7 +16188,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eecc876b-2c93-4ac0-85c6-d89a07ae7b3d")
-		(property "Reference" "D57"
+		(property "Reference" "D55"
 			(at 149.86 107.9499 90)
 			(effects
 				(font
@@ -17944,7 +16260,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D57")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -17985,7 +16301,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "F8"
 			(at 152.4 31.75 0)
 			(effects
 				(font
@@ -18108,94 +16424,6 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 91.44 154.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f692e2e1-15b5-4d1c-9f52-32b8fe623e90")
-		(property "Reference" "D85"
-			(at 93.98 153.6699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 93.98 156.2099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 91.44 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 91.44 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 91.44 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 91.44 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 91.44 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e198b5d2-668f-46be-a58f-85845242bc6b")
-		)
-		(pin "2"
-			(uuid "f94b2ce0-87bc-4ebf-9742-4d2bb0fbe27d")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D85")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
 		(at 161.29 86.36 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18204,7 +16432,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7f4dc44-5d84-4dd3-93fa-a6415070bf03")
-		(property "Reference" "D42"
+		(property "Reference" "D41"
 			(at 163.83 85.0899 90)
 			(effects
 				(font
@@ -18276,7 +16504,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D42")
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -18292,7 +16520,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f80ebe30-6505-42db-9fe9-befe3e62e44d")
-		(property "Reference" "SW40"
+		(property "Reference" "SW39"
 			(at 138.43 74.93 0)
 			(effects
 				(font
@@ -18317,7 +16545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "U"
 			(at 138.43 77.47 0)
 			(effects
 				(font
@@ -18344,7 +16572,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW40")
+					(reference "SW39")
 					(unit 1)
 				)
 			)
@@ -18360,7 +16588,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd9950ce-f1b4-488d-8a7c-ec373b698f6d")
-		(property "Reference" "SW68"
+		(property "Reference" "SW64"
 			(at 82.55 120.65 0)
 			(effects
 				(font
@@ -18385,7 +16613,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "C"
 			(at 82.55 123.19 0)
 			(effects
 				(font
@@ -18412,7 +16640,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW68")
+					(reference "SW64")
 					(unit 1)
 				)
 			)
@@ -18453,7 +16681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "F2"
 			(at 68.58 31.75 0)
 			(effects
 				(font
