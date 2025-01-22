@@ -483,12 +483,6 @@
 		(uuid "3918c4a2-5a41-4488-94ca-12b304cd6f12")
 	)
 	(junction
-		(at 255.27 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "392b1453-b36c-4f24-bfef-c1564fc5727d")
-	)
-	(junction
 		(at 105.41 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -627,6 +621,12 @@
 		(uuid "6db3e7b7-6dad-43c8-9e68-71e44a9770dd")
 	)
 	(junction
+		(at 77.47 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6f736673-76cf-4d17-a50c-3486b633a470")
+	)
+	(junction
 		(at 77.47 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -691,12 +691,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "80482d04-8511-40d8-9efe-eb2228589945")
-	)
-	(junction
-		(at 245.11 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "81732240-ab03-43f8-85d8-c1711dd97a28")
 	)
 	(junction
 		(at 147.32 67.31)
@@ -1015,12 +1009,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d0adb58d-5381-46dd-9544-1e1ab10d946c")
-	)
-	(junction
-		(at 77.47 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d0bc6e9e-633d-449c-bc96-cd9c7b13434d")
 	)
 	(junction
 		(at 133.35 44.45)
@@ -1420,16 +1408,6 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 36.83) (xy 255.27 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "31ad0da3-fd0e-42e4-9d3b-9346ede90b7a")
-	)
-	(wire
-		(pts
 			(xy 213.36 105.41) (xy 213.36 128.27)
 		)
 		(stroke
@@ -1467,16 +1445,6 @@
 			(type default)
 		)
 		(uuid "331dcd1d-e3dc-4351-9899-f03dd6c10c5f")
-	)
-	(wire
-		(pts
-			(xy 77.47 44.45) (xy 91.44 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "346c31f5-2715-43a4-b541-ccff773c0af0")
 	)
 	(wire
 		(pts
@@ -1527,6 +1495,16 @@
 			(type default)
 		)
 		(uuid "394bb7d8-fc7d-4584-8a71-ec14d25a0c49")
+	)
+	(wire
+		(pts
+			(xy 255.27 27.94) (xy 255.27 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b227463-bdab-4ae5-b4c0-3f576bd18198")
 	)
 	(wire
 		(pts
@@ -1667,16 +1645,6 @@
 			(type default)
 		)
 		(uuid "508fd3d9-8509-488b-b729-90ed2364321c")
-	)
-	(wire
-		(pts
-			(xy 255.27 27.94) (xy 255.27 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51276b42-e06e-437d-b435-18608ab711b0")
 	)
 	(wire
 		(pts
@@ -1970,7 +1938,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 44.45) (xy 259.08 44.45)
+			(xy 217.17 44.45) (xy 259.08 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2087,16 +2055,6 @@
 			(type default)
 		)
 		(uuid "9534d526-a2c1-4c5b-8e7e-dbaa7f5f580e")
-	)
-	(wire
-		(pts
-			(xy 217.17 44.45) (xy 245.11 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "965ac27d-5635-4430-b93c-9108d038e11a")
 	)
 	(wire
 		(pts
@@ -2690,6 +2648,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 44.45) (xy 91.44 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbeb4b7d-1e54-4001-bb2f-f9bf8e9087df")
+	)
+	(wire
+		(pts
 			(xy 189.23 44.45) (xy 203.2 44.45)
 		)
 		(stroke
@@ -2992,22 +2960,22 @@
 	)
 	(global_label "ROT_ENC_ROW"
 		(shape input)
-		(at 259.08 44.45 0)
+		(at 257.81 44.45 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "7d541742-29f1-4fa2-9a06-264859e38b28")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 275.3699 44.45 0)
+			(at 257.81 60.7399 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -3190,7 +3158,7 @@
 	)
 	(global_label "ROT_ENC_COL"
 		(shape input)
-		(at 255.27 33.02 0)
+		(at 255.27 40.64 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3200,7 +3168,7 @@
 		)
 		(uuid "d35b4210-b329-4489-a745-c790bd979f19")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 271.1366 33.02 0)
+			(at 271.1366 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3280,7 +3248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1.25U-NoLED"
 			(at 54.61 123.19 0)
 			(effects
 				(font
@@ -3332,7 +3300,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "033c919f-bffe-4417-a253-2456b9c087dc")
-		(property "Reference" "SW47"
+		(property "Reference" "SW61"
 			(at 236.22 97.79 0)
 			(effects
 				(font
@@ -3348,7 +3316,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 236.22 100.33 0)
 			(effects
 				(font
@@ -3384,7 +3352,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW47")
+					(reference "SW61")
 					(unit 1)
 				)
 			)
@@ -3400,7 +3368,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04d4d247-357d-4e1c-9cdf-748b621130e5")
-		(property "Reference" "SW55"
+		(property "Reference" "SW54"
 			(at 124.46 97.79 0)
 			(effects
 				(font
@@ -3416,7 +3384,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 124.46 100.33 0)
 			(effects
 				(font
@@ -3452,7 +3420,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW55")
+					(reference "SW54")
 					(unit 1)
 				)
 			)
@@ -3468,7 +3436,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04eb172d-8a8e-40a7-90ad-b0493d6c8901")
-		(property "Reference" "SW32"
+		(property "Reference" "SW30"
 			(at 222.25 52.07 0)
 			(effects
 				(font
@@ -3476,7 +3444,7 @@
 				)
 			)
 		)
-		(property "Value" "Backspace"
+		(property "Value" "\\"
 			(at 222.25 54.61 0)
 			(effects
 				(font
@@ -3484,7 +3452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1.5U-NoLED"
 			(at 222.25 54.61 0)
 			(effects
 				(font
@@ -3520,7 +3488,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW32")
+					(reference "SW30")
 					(unit 1)
 				)
 			)
@@ -3536,7 +3504,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "068aee5a-00d5-4e55-ad58-085a7ec98f38")
-		(property "Reference" "SW48"
+		(property "Reference" "SW47"
 			(at 250.19 74.93 0)
 			(effects
 				(font
@@ -3552,7 +3520,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 250.19 77.47 0)
 			(effects
 				(font
@@ -3588,7 +3556,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW48")
+					(reference "SW47")
 					(unit 1)
 				)
 			)
@@ -3692,7 +3660,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0989e296-9f81-4196-8a62-e7e078c42e0a")
-		(property "Reference" "D62"
+		(property "Reference" "D63"
 			(at 38.1 130.8099 90)
 			(effects
 				(font
@@ -3764,7 +3732,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D62")
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -3780,7 +3748,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d8fbae9-3e13-4374-b518-e43a5bba3798")
-		(property "Reference" "D17"
+		(property "Reference" "D70"
 			(at 191.77 130.8099 90)
 			(effects
 				(font
@@ -3852,7 +3820,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D17")
+					(reference "D70")
 					(unit 1)
 				)
 			)
@@ -3868,7 +3836,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0defca74-f080-4305-9df2-86706088e88f")
-		(property "Reference" "D72"
+		(property "Reference" "D69"
 			(at 177.8 130.8099 90)
 			(effects
 				(font
@@ -3940,7 +3908,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D72")
+					(reference "D69")
 					(unit 1)
 				)
 			)
@@ -3956,7 +3924,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10207369-9503-466c-83df-386965ccf320")
-		(property "Reference" "D11"
+		(property "Reference" "D12"
 			(at 163.83 39.3699 90)
 			(effects
 				(font
@@ -4028,7 +3996,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D11")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -4044,7 +4012,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1675d2d2-70ce-4d5b-9ce8-aea9a3539895")
-		(property "Reference" "D18"
+		(property "Reference" "D17"
 			(at 38.1 62.2299 90)
 			(effects
 				(font
@@ -4116,7 +4084,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D18")
+					(reference "D17")
 					(unit 1)
 				)
 			)
@@ -4132,7 +4100,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16b3f9a1-4650-4865-bee4-8eecc340b0b0")
-		(property "Reference" "SW25"
+		(property "Reference" "SW23"
 			(at 124.46 52.07 0)
 			(effects
 				(font
@@ -4148,7 +4116,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 124.46 54.61 0)
 			(effects
 				(font
@@ -4184,7 +4152,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW25")
+					(reference "SW23")
 					(unit 1)
 				)
 			)
@@ -4200,7 +4168,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16c5c502-bee8-4265-85a3-982c4070efc4")
-		(property "Reference" "SW36"
+		(property "Reference" "SW35"
 			(at 68.58 74.93 0)
 			(effects
 				(font
@@ -4216,7 +4184,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 68.58 77.47 0)
 			(effects
 				(font
@@ -4252,7 +4220,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW36")
+					(reference "SW35")
 					(unit 1)
 				)
 			)
@@ -4268,7 +4236,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16d400bb-d994-4805-b58c-15637f9c9464")
-		(property "Reference" "D14"
+		(property "Reference" "D15"
 			(at 205.74 39.3699 90)
 			(effects
 				(font
@@ -4340,7 +4308,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D14")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -4444,7 +4412,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "189b50af-4c64-4ec1-8615-9f65b7cc0d27")
-		(property "Reference" "D9"
+		(property "Reference" "D10"
 			(at 135.89 39.3699 90)
 			(effects
 				(font
@@ -4516,7 +4484,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D9")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -4532,7 +4500,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "192abed8-ea16-4f8e-b63b-624f55905be0")
-		(property "Reference" "D12"
+		(property "Reference" "D13"
 			(at 177.8 39.3699 90)
 			(effects
 				(font
@@ -4604,7 +4572,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D12")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -4620,7 +4588,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "211f4a13-8f2e-4543-9b1d-3ff3140e296b")
-		(property "Reference" "D24"
+		(property "Reference" "D23"
 			(at 121.92 62.2299 90)
 			(effects
 				(font
@@ -4692,7 +4660,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D24")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -4708,7 +4676,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26ebc12c-19df-4735-b753-78e3238020ec")
-		(property "Reference" "SW44"
+		(property "Reference" "SW43"
 			(at 180.34 74.93 0)
 			(effects
 				(font
@@ -4724,7 +4692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 180.34 77.47 0)
 			(effects
 				(font
@@ -4760,7 +4728,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW44")
+					(reference "SW43")
 					(unit 1)
 				)
 			)
@@ -4776,7 +4744,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28dd5f15-7427-4270-9719-174d6350826a")
-		(property "Reference" "D22"
+		(property "Reference" "D21"
 			(at 93.98 62.2299 90)
 			(effects
 				(font
@@ -4848,7 +4816,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D22")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -4952,7 +4920,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d7ee1fc-891d-4237-99b7-71d8f409f8fa")
-		(property "Reference" "SW17"
+		(property "Reference" "SW70"
 			(at 194.31 120.65 0)
 			(effects
 				(font
@@ -4968,7 +4936,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 194.31 123.19 0)
 			(effects
 				(font
@@ -5004,7 +4972,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW17")
+					(reference "SW70")
 					(unit 1)
 				)
 			)
@@ -5124,7 +5092,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 110.49 31.75 0)
 			(effects
 				(font
@@ -5176,7 +5144,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3270e483-2dec-4910-b35f-13d9400c990e")
-		(property "Reference" "D13"
+		(property "Reference" "D14"
 			(at 191.77 39.3699 90)
 			(effects
 				(font
@@ -5248,7 +5216,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D13")
+					(reference "D14")
 					(unit 1)
 				)
 			)
@@ -5280,7 +5248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 54.61 31.75 0)
 			(effects
 				(font
@@ -5332,7 +5300,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33ccb107-090c-4ebb-b894-6681f1b84e8b")
-		(property "Reference" "D31"
+		(property "Reference" "D30"
 			(at 219.71 62.2299 90)
 			(effects
 				(font
@@ -5404,7 +5372,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D31")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -5420,7 +5388,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ac858e6-eec2-421e-b041-5c7968e75fc9")
-		(property "Reference" "D15"
+		(property "Reference" "D16"
 			(at 219.71 39.3699 90)
 			(effects
 				(font
@@ -5492,7 +5460,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D15")
+					(reference "D16")
 					(unit 1)
 				)
 			)
@@ -5508,7 +5476,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40867b98-85aa-4e21-852f-2458584e307f")
-		(property "Reference" "D28"
+		(property "Reference" "D27"
 			(at 177.8 62.2299 90)
 			(effects
 				(font
@@ -5580,7 +5548,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D28")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -5612,7 +5580,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 194.31 31.75 0)
 			(effects
 				(font
@@ -5664,7 +5632,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45753857-3060-472a-b6af-7f6e6d87f0ab")
-		(property "Reference" "SW73"
+		(property "Reference" "SW69"
 			(at 180.34 120.65 0)
 			(effects
 				(font
@@ -5680,7 +5648,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 180.34 123.19 0)
 			(effects
 				(font
@@ -5716,7 +5684,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW73")
+					(reference "SW69")
 					(unit 1)
 				)
 			)
@@ -5732,7 +5700,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4705b280-0c95-442c-a87d-bec45f0fdc1d")
-		(property "Reference" "D10"
+		(property "Reference" "D11"
 			(at 149.86 39.3699 90)
 			(effects
 				(font
@@ -5804,7 +5772,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D10")
+					(reference "D11")
 					(unit 1)
 				)
 			)
@@ -5820,7 +5788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4938dab7-7026-4c69-b6dc-9c79c3598cbe")
-		(property "Reference" "SW49"
+		(property "Reference" "SW48"
 			(at 40.64 97.79 0)
 			(effects
 				(font
@@ -5836,7 +5804,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-2.25U-NoLED"
 			(at 40.64 100.33 0)
 			(effects
 				(font
@@ -5872,7 +5840,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW49")
+					(reference "SW48")
 					(unit 1)
 				)
 			)
@@ -5888,7 +5856,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "497a0cf7-2119-4ee2-8c7d-0f914c4d21d2")
-		(property "Reference" "D75"
+		(property "Reference" "D73"
 			(at 247.65 130.8099 90)
 			(effects
 				(font
@@ -5960,7 +5928,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D75")
+					(reference "D73")
 					(unit 1)
 				)
 			)
@@ -5976,7 +5944,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5264988c-c467-476f-8617-617f9e9295ac")
-		(property "Reference" "D66"
+		(property "Reference" "D46"
 			(at 233.68 85.0899 90)
 			(effects
 				(font
@@ -6048,7 +6016,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D66")
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -6064,7 +6032,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52c0af6d-37c4-410c-b2cf-0df70ed6ca9c")
-		(property "Reference" "D67"
+		(property "Reference" "D66"
 			(at 107.95 130.8099 90)
 			(effects
 				(font
@@ -6136,7 +6104,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D67")
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -6344,7 +6312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 250.19 100.33 0)
 			(effects
 				(font
@@ -6412,7 +6380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 166.37 31.75 0)
 			(effects
 				(font
@@ -6464,7 +6432,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5cfdf600-b1e7-4aff-9ed7-7ea39433ca5b")
-		(property "Reference" "SW21"
+		(property "Reference" "SW19"
 			(at 68.58 52.07 0)
 			(effects
 				(font
@@ -6480,7 +6448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 68.58 54.61 0)
 			(effects
 				(font
@@ -6516,7 +6484,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW21")
+					(reference "SW19")
 					(unit 1)
 				)
 			)
@@ -6532,7 +6500,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f3545f0-30c8-4e7f-a3f7-3f6afc0f6484")
-		(property "Reference" "D4"
+		(property "Reference" "D5"
 			(at 66.04 39.3699 90)
 			(effects
 				(font
@@ -6604,7 +6572,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D4")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -6700,7 +6668,7 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 77.47 40.64 90)
+		(at 77.47 40.64 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6708,13 +6676,13 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60190636-5349-435e-a52b-b9b5eccc8032")
-		(property "Reference" "D5"
+		(property "Reference" "D6"
 			(at 80.01 39.3699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "D"
@@ -6723,7 +6691,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -6780,7 +6748,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D5")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -6796,7 +6764,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "615b542a-b619-4bc3-ac1b-879aebb4d10d")
-		(property "Reference" "SW30"
+		(property "Reference" "SW28"
 			(at 194.31 52.07 0)
 			(effects
 				(font
@@ -6812,7 +6780,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 194.31 54.61 0)
 			(effects
 				(font
@@ -6848,7 +6816,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW30")
+					(reference "SW28")
 					(unit 1)
 				)
 			)
@@ -6864,7 +6832,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6771fc79-11df-4bee-8c1e-2e78f1426196")
-		(property "Reference" "D20"
+		(property "Reference" "D19"
 			(at 66.04 62.2299 90)
 			(effects
 				(font
@@ -6936,7 +6904,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D20")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -6952,7 +6920,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "698c188f-22a8-4eac-9fa1-fee24ed2fb46")
-		(property "Reference" "SW52"
+		(property "Reference" "SW51"
 			(at 82.55 97.79 0)
 			(effects
 				(font
@@ -6968,7 +6936,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 82.55 100.33 0)
 			(effects
 				(font
@@ -7004,7 +6972,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW52")
+					(reference "SW51")
 					(unit 1)
 				)
 			)
@@ -7108,7 +7076,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f8f3336-88ba-4a36-a9cd-60952afe989a")
-		(property "Reference" "D6"
+		(property "Reference" "D7"
 			(at 93.98 39.3699 90)
 			(effects
 				(font
@@ -7180,7 +7148,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D6")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -7196,7 +7164,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "71f62f12-3fbb-49b9-8539-d97bf0ac3693")
-		(property "Reference" "SW68"
+		(property "Reference" "SW66"
 			(at 110.49 120.65 0)
 			(effects
 				(font
@@ -7212,7 +7180,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-6.25U-NoLED"
 			(at 110.49 123.19 0)
 			(effects
 				(font
@@ -7248,7 +7216,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW68")
+					(reference "SW66")
 					(unit 1)
 				)
 			)
@@ -7352,7 +7320,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77af2b12-3555-4278-ae4e-e372d9c800f2")
-		(property "Reference" "SW40"
+		(property "Reference" "SW39"
 			(at 124.46 74.93 0)
 			(effects
 				(font
@@ -7368,7 +7336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 124.46 77.47 0)
 			(effects
 				(font
@@ -7404,7 +7372,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW40")
+					(reference "SW39")
 					(unit 1)
 				)
 			)
@@ -7420,7 +7388,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78189572-dcbb-412c-bcd8-5d269a871a11")
-		(property "Reference" "SW35"
+		(property "Reference" "SW34"
 			(at 54.61 74.93 0)
 			(effects
 				(font
@@ -7436,7 +7404,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 54.61 77.47 0)
 			(effects
 				(font
@@ -7472,7 +7440,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW35")
+					(reference "SW34")
 					(unit 1)
 				)
 			)
@@ -7488,7 +7456,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78b24c06-db88-48bd-8146-d48ac3a527a4")
-		(property "Reference" "SW67"
+		(property "Reference" "SW31"
 			(at 236.22 52.07 0)
 			(effects
 				(font
@@ -7504,7 +7472,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 236.22 54.61 0)
 			(effects
 				(font
@@ -7540,7 +7508,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW67")
+					(reference "SW31")
 					(unit 1)
 				)
 			)
@@ -7644,7 +7612,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ac61754-602c-46c9-be96-698a9ce33441")
-		(property "Reference" "SW72"
+		(property "Reference" "SW68"
 			(at 166.37 120.65 0)
 			(effects
 				(font
@@ -7660,7 +7628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 166.37 123.19 0)
 			(effects
 				(font
@@ -7696,7 +7664,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW72")
+					(reference "SW68")
 					(unit 1)
 				)
 			)
@@ -7712,7 +7680,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b0ca5f2-168f-4cee-9642-f5301fe87d51")
-		(property "Reference" "D61"
+		(property "Reference" "D62"
 			(at 247.65 107.9499 90)
 			(effects
 				(font
@@ -7784,7 +7752,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D61")
+					(reference "D62")
 					(unit 1)
 				)
 			)
@@ -7800,7 +7768,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bd3095a-9267-4caf-968d-952e07bba93b")
-		(property "Reference" "SW54"
+		(property "Reference" "SW53"
 			(at 110.49 97.79 0)
 			(effects
 				(font
@@ -7816,7 +7784,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 110.49 100.33 0)
 			(effects
 				(font
@@ -7852,7 +7820,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW54")
+					(reference "SW53")
 					(unit 1)
 				)
 			)
@@ -7868,7 +7836,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7dac6e9e-8da5-4a00-b450-44a4c30459e9")
-		(property "Reference" "SW58"
+		(property "Reference" "SW57"
 			(at 166.37 97.79 0)
 			(effects
 				(font
@@ -7884,7 +7852,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 166.37 100.33 0)
 			(effects
 				(font
@@ -7920,7 +7888,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW58")
+					(reference "SW57")
 					(unit 1)
 				)
 			)
@@ -7952,7 +7920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 208.28 31.75 0)
 			(effects
 				(font
@@ -8004,7 +7972,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85cd36bb-014d-4915-bff1-cad9b7c4be9b")
-		(property "Reference" "SW31"
+		(property "Reference" "SW29"
 			(at 208.28 52.07 0)
 			(effects
 				(font
@@ -8020,7 +7988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 208.28 54.61 0)
 			(effects
 				(font
@@ -8056,7 +8024,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW31")
+					(reference "SW29")
 					(unit 1)
 				)
 			)
@@ -8072,7 +8040,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "87cac6dd-1a5b-4efc-88dc-b64ef8a2f300")
-		(property "Reference" "SW76"
+		(property "Reference" "SW73"
 			(at 250.19 120.65 0)
 			(effects
 				(font
@@ -8088,7 +8056,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 250.19 123.19 0)
 			(effects
 				(font
@@ -8124,7 +8092,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW76")
+					(reference "SW73")
 					(unit 1)
 				)
 			)
@@ -8228,7 +8196,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8aadbf43-397a-4a87-88d0-e76737cc20bd")
-		(property "Reference" "SW26"
+		(property "Reference" "SW24"
 			(at 138.43 52.07 0)
 			(effects
 				(font
@@ -8244,7 +8212,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 138.43 54.61 0)
 			(effects
 				(font
@@ -8280,7 +8248,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW26")
+					(reference "SW24")
 					(unit 1)
 				)
 			)
@@ -8296,7 +8264,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b78a476-c033-4453-8c12-155206d7f5d3")
-		(property "Reference" "SW38"
+		(property "Reference" "SW37"
 			(at 96.52 74.93 0)
 			(effects
 				(font
@@ -8312,7 +8280,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 96.52 77.47 0)
 			(effects
 				(font
@@ -8348,7 +8316,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW38")
+					(reference "SW37")
 					(unit 1)
 				)
 			)
@@ -8372,7 +8340,7 @@
 				)
 			)
 		)
-		(property "Value" "Delete/Insert"
+		(property "Value" "Backspace"
 			(at 222.25 31.75 0)
 			(effects
 				(font
@@ -8380,7 +8348,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-2U-NoLED"
 			(at 222.25 31.75 0)
 			(effects
 				(font
@@ -8432,7 +8400,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f2150dc-9d32-4667-9bad-e74a232cf5dd")
-		(property "Reference" "D65"
+		(property "Reference" "D61"
 			(at 233.68 107.9499 90)
 			(effects
 				(font
@@ -8504,95 +8472,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D65")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 245.11 40.64 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "90d72bd9-a618-441f-b302-dd997d9227ac")
-		(property "Reference" "D46"
-			(at 247.65 39.3699 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "D"
-			(at 247.65 41.9099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 245.11 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 245.11 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 245.11 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 245.11 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 245.11 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "65dabc09-da69-4829-9e64-8d61d7632ed8")
-		)
-		(pin "2"
-			(uuid "0ac6b067-147b-4060-85ad-16bd670b028e")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D46")
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -8608,7 +8488,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "915a3c57-f250-4826-be10-0c6304901336")
-		(property "Reference" "SW45"
+		(property "Reference" "SW44"
 			(at 194.31 74.93 0)
 			(effects
 				(font
@@ -8624,7 +8504,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 194.31 77.47 0)
 			(effects
 				(font
@@ -8660,7 +8540,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW45")
+					(reference "SW44")
 					(unit 1)
 				)
 			)
@@ -8852,7 +8732,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9880417a-dc26-4776-82ff-f1f58c7f5502")
-		(property "Reference" "SW34"
+		(property "Reference" "SW33"
 			(at 40.64 74.93 0)
 			(effects
 				(font
@@ -8868,7 +8748,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1.75U-NoLED"
 			(at 40.64 77.47 0)
 			(effects
 				(font
@@ -8904,7 +8784,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW34")
+					(reference "SW33")
 					(unit 1)
 				)
 			)
@@ -8936,7 +8816,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1.25U-NoLED"
 			(at 40.64 123.19 0)
 			(effects
 				(font
@@ -8988,7 +8868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9918cceb-946b-4da6-b549-cbdbddce55ce")
-		(property "Reference" "D8"
+		(property "Reference" "D9"
 			(at 121.92 39.3699 90)
 			(effects
 				(font
@@ -9060,7 +8940,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D8")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -9076,7 +8956,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "993af6f2-93b3-45d6-96b1-396d139989fe")
-		(property "Reference" "SW22"
+		(property "Reference" "SW20"
 			(at 82.55 52.07 0)
 			(effects
 				(font
@@ -9092,7 +8972,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 82.55 54.61 0)
 			(effects
 				(font
@@ -9128,7 +9008,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW22")
+					(reference "SW20")
 					(unit 1)
 				)
 			)
@@ -9160,7 +9040,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 124.46 31.75 0)
 			(effects
 				(font
@@ -9212,7 +9092,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3807f7e-c553-4c6f-a1cd-fb73e14ba2ef")
-		(property "Reference" "D29"
+		(property "Reference" "D28"
 			(at 191.77 62.2299 90)
 			(effects
 				(font
@@ -9284,7 +9164,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D29")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -9316,7 +9196,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 82.55 31.75 0)
 			(effects
 				(font
@@ -9368,7 +9248,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a780d66e-240a-4a84-b781-7f2a536c514b")
-		(property "Reference" "SW59"
+		(property "Reference" "SW58"
 			(at 180.34 97.79 0)
 			(effects
 				(font
@@ -9384,7 +9264,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 180.34 100.33 0)
 			(effects
 				(font
@@ -9420,7 +9300,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW59")
+					(reference "SW58")
 					(unit 1)
 				)
 			)
@@ -9436,7 +9316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7c8b974-1180-4856-94cd-a6a74d7dba2a")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 38.1 39.3699 90)
 			(effects
 				(font
@@ -9508,7 +9388,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -9524,7 +9404,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a80d4c40-70b0-4fa5-899e-67723598f1b3")
-		(property "Reference" "SW28"
+		(property "Reference" "SW26"
 			(at 166.37 52.07 0)
 			(effects
 				(font
@@ -9540,7 +9420,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 166.37 54.61 0)
 			(effects
 				(font
@@ -9576,7 +9456,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW28")
+					(reference "SW26")
 					(unit 1)
 				)
 			)
@@ -9592,7 +9472,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa735450-611f-4f16-a952-6878d6efaa18")
-		(property "Reference" "SW71"
+		(property "Reference" "SW67"
 			(at 152.4 120.65 0)
 			(effects
 				(font
@@ -9608,7 +9488,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 152.4 123.19 0)
 			(effects
 				(font
@@ -9644,7 +9524,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW71")
+					(reference "SW67")
 					(unit 1)
 				)
 			)
@@ -9660,7 +9540,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa828ffc-6825-4cd6-b5f6-3dc31e134c41")
-		(property "Reference" "D71"
+		(property "Reference" "D68"
 			(at 163.83 130.8099 90)
 			(effects
 				(font
@@ -9732,7 +9612,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D71")
+					(reference "D68")
 					(unit 1)
 				)
 			)
@@ -9748,7 +9628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa84db0d-1114-49d5-9981-4ca8be93b310")
-		(property "Reference" "SW33"
+		(property "Reference" "SW32"
 			(at 250.19 52.07 0)
 			(effects
 				(font
@@ -9764,7 +9644,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 250.19 54.61 0)
 			(effects
 				(font
@@ -9800,7 +9680,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW33")
+					(reference "SW32")
 					(unit 1)
 				)
 			)
@@ -9904,7 +9784,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad3e52a2-37a4-419f-bf07-28ea3239399c")
-		(property "Reference" "SW42"
+		(property "Reference" "SW41"
 			(at 152.4 74.93 0)
 			(effects
 				(font
@@ -9920,7 +9800,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 152.4 77.47 0)
 			(effects
 				(font
@@ -9956,7 +9836,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW42")
+					(reference "SW41")
 					(unit 1)
 				)
 			)
@@ -9972,7 +9852,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "adc971e3-0239-4aa5-bbae-eb013340250d")
-		(property "Reference" "D63"
+		(property "Reference" "D64"
 			(at 52.07 130.8099 90)
 			(effects
 				(font
@@ -10044,7 +9924,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D63")
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -10252,7 +10132,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1.25U-NoLED"
 			(at 68.58 123.19 0)
 			(effects
 				(font
@@ -10304,7 +10184,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b883804d-78b2-40a9-876b-085650e6a651")
-		(property "Reference" "D3"
+		(property "Reference" "D4"
 			(at 52.07 39.3699 90)
 			(effects
 				(font
@@ -10376,7 +10256,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D3")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -10392,7 +10272,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd73025c-3439-430c-bf8c-0c8c699cfa5e")
-		(property "Reference" "D64"
+		(property "Reference" "D65"
 			(at 66.04 130.8099 90)
 			(effects
 				(font
@@ -10464,7 +10344,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D64")
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -10480,7 +10360,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be5035cf-fa02-424b-92a8-8f651ffadab9")
-		(property "Reference" "SW19"
+		(property "Reference" "SW17"
 			(at 40.64 52.07 0)
 			(effects
 				(font
@@ -10496,7 +10376,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1.5U-NoLED"
 			(at 40.64 54.61 0)
 			(effects
 				(font
@@ -10532,7 +10412,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW19")
+					(reference "SW17")
 					(unit 1)
 				)
 			)
@@ -10548,7 +10428,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bef5d183-29ec-439b-bbdb-9372b5beee1a")
-		(property "Reference" "SW61"
+		(property "Reference" "SW60"
 			(at 208.28 97.79 0)
 			(effects
 				(font
@@ -10564,7 +10444,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 208.28 100.33 0)
 			(effects
 				(font
@@ -10600,7 +10480,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW61")
+					(reference "SW60")
 					(unit 1)
 				)
 			)
@@ -10704,7 +10584,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c21f17e2-eba2-4714-90d9-f4de334ad5d6")
-		(property "Reference" "D68"
+		(property "Reference" "D31"
 			(at 233.68 62.2299 90)
 			(effects
 				(font
@@ -10776,7 +10656,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D68")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -10880,7 +10760,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3967e4b-6d9a-4bb3-88c1-d1e676f5f85a")
-		(property "Reference" "D7"
+		(property "Reference" "D8"
 			(at 107.95 39.3699 90)
 			(effects
 				(font
@@ -10952,7 +10832,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D7")
+					(reference "D8")
 					(unit 1)
 				)
 			)
@@ -10968,7 +10848,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c424050c-252d-47ba-8718-5ec824c7b9f2")
-		(property "Reference" "D27"
+		(property "Reference" "D26"
 			(at 163.83 62.2299 90)
 			(effects
 				(font
@@ -11040,7 +10920,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D27")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -11056,7 +10936,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c45a0610-d645-41fd-82d8-d9ba4308a5f6")
-		(property "Reference" "SW23"
+		(property "Reference" "SW21"
 			(at 96.52 52.07 0)
 			(effects
 				(font
@@ -11072,7 +10952,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 96.52 54.61 0)
 			(effects
 				(font
@@ -11108,7 +10988,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW23")
+					(reference "SW21")
 					(unit 1)
 				)
 			)
@@ -11212,7 +11092,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c53d4d86-5053-40ea-b1d7-5ae025e6bb06")
-		(property "Reference" "SW46"
+		(property "Reference" "SW45"
 			(at 208.28 74.93 0)
 			(effects
 				(font
@@ -11228,7 +11108,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-2.25U-NoLED"
 			(at 208.28 77.47 0)
 			(effects
 				(font
@@ -11264,7 +11144,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW46")
+					(reference "SW45")
 					(unit 1)
 				)
 			)
@@ -11280,7 +11160,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5a1a89b-e320-447f-a387-b5c3989b2ba1")
-		(property "Reference" "SW27"
+		(property "Reference" "SW25"
 			(at 152.4 52.07 0)
 			(effects
 				(font
@@ -11296,7 +11176,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 152.4 54.61 0)
 			(effects
 				(font
@@ -11332,7 +11212,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW27")
+					(reference "SW25")
 					(unit 1)
 				)
 			)
@@ -11348,7 +11228,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c690c686-229e-47fc-92b5-f9737783c12d")
-		(property "Reference" "SW53"
+		(property "Reference" "SW52"
 			(at 96.52 97.79 0)
 			(effects
 				(font
@@ -11364,7 +11244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 96.52 100.33 0)
 			(effects
 				(font
@@ -11400,7 +11280,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW53")
+					(reference "SW52")
 					(unit 1)
 				)
 			)
@@ -11504,7 +11384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c97bdb9e-9091-4c7a-b844-d8e7281396ef")
-		(property "Reference" "SW37"
+		(property "Reference" "SW36"
 			(at 82.55 74.93 0)
 			(effects
 				(font
@@ -11520,7 +11400,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 82.55 77.47 0)
 			(effects
 				(font
@@ -11556,7 +11436,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW37")
+					(reference "SW36")
 					(unit 1)
 				)
 			)
@@ -11572,7 +11452,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9c85f07-c629-4ae7-9396-2c267c84254c")
-		(property "Reference" "SW56"
+		(property "Reference" "SW55"
 			(at 138.43 97.79 0)
 			(effects
 				(font
@@ -11588,7 +11468,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 138.43 100.33 0)
 			(effects
 				(font
@@ -11624,7 +11504,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW56")
+					(reference "SW55")
 					(unit 1)
 				)
 			)
@@ -11640,7 +11520,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca395da4-8397-4b57-9813-b18652784638")
-		(property "Reference" "SW74"
+		(property "Reference" "SW71"
 			(at 208.28 120.65 0)
 			(effects
 				(font
@@ -11656,7 +11536,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 208.28 123.19 0)
 			(effects
 				(font
@@ -11692,7 +11572,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW74")
+					(reference "SW71")
 					(unit 1)
 				)
 			)
@@ -11796,7 +11676,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb826469-ff96-4343-b93a-a3870ff82678")
-		(property "Reference" "D74"
+		(property "Reference" "D72"
 			(at 233.68 130.8099 90)
 			(effects
 				(font
@@ -11868,7 +11748,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D74")
+					(reference "D72")
 					(unit 1)
 				)
 			)
@@ -11884,7 +11764,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd45841c-04ad-458c-8c1f-84be2b6e8b65")
-		(property "Reference" "D30"
+		(property "Reference" "D29"
 			(at 205.74 62.2299 90)
 			(effects
 				(font
@@ -11956,7 +11836,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D30")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -11972,7 +11852,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd6cff83-7964-4540-ab43-0ecae8b13a05")
-		(property "Reference" "D19"
+		(property "Reference" "D18"
 			(at 52.07 62.2299 90)
 			(effects
 				(font
@@ -12044,7 +11924,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D19")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -12060,7 +11940,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd8b33e4-befb-4499-88b2-50b164e91cc7")
-		(property "Reference" "SW39"
+		(property "Reference" "SW38"
 			(at 110.49 74.93 0)
 			(effects
 				(font
@@ -12076,7 +11956,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 110.49 77.47 0)
 			(effects
 				(font
@@ -12112,7 +11992,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW39")
+					(reference "SW38")
 					(unit 1)
 				)
 			)
@@ -12128,7 +12008,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cdbb2857-cfa7-48fa-a586-f81725140148")
-		(property "Reference" "D73"
+		(property "Reference" "D71"
 			(at 205.74 130.8099 90)
 			(effects
 				(font
@@ -12200,7 +12080,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D73")
+					(reference "D71")
 					(unit 1)
 				)
 			)
@@ -12216,7 +12096,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cfe47dbb-3689-489b-ade7-21652fb7b33a")
-		(property "Reference" "SW57"
+		(property "Reference" "SW56"
 			(at 152.4 97.79 0)
 			(effects
 				(font
@@ -12232,7 +12112,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 152.4 100.33 0)
 			(effects
 				(font
@@ -12268,7 +12148,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW57")
+					(reference "SW56")
 					(unit 1)
 				)
 			)
@@ -12372,7 +12252,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5eb620f-e8b0-49ec-b873-7ec79755bc0d")
-		(property "Reference" "SW29"
+		(property "Reference" "SW27"
 			(at 180.34 52.07 0)
 			(effects
 				(font
@@ -12388,7 +12268,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 180.34 54.61 0)
 			(effects
 				(font
@@ -12424,7 +12304,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW29")
+					(reference "SW27")
 					(unit 1)
 				)
 			)
@@ -12440,7 +12320,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d861424f-6d29-45ed-a020-750cee0abc08")
-		(property "Reference" "SW75"
+		(property "Reference" "SW72"
 			(at 236.22 120.65 0)
 			(effects
 				(font
@@ -12456,7 +12336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 236.22 123.19 0)
 			(effects
 				(font
@@ -12492,7 +12372,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW75")
+					(reference "SW72")
 					(unit 1)
 				)
 			)
@@ -12508,7 +12388,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da284d78-205f-4a10-8df6-988a55240368")
-		(property "Reference" "SW20"
+		(property "Reference" "SW18"
 			(at 54.61 52.07 0)
 			(effects
 				(font
@@ -12524,7 +12404,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 54.61 54.61 0)
 			(effects
 				(font
@@ -12560,7 +12440,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW20")
+					(reference "SW18")
 					(unit 1)
 				)
 			)
@@ -12592,7 +12472,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 138.43 31.75 0)
 			(effects
 				(font
@@ -12644,7 +12524,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da2a0d4b-c8a2-43ca-ba6e-123bce144bb9")
-		(property "Reference" "D21"
+		(property "Reference" "D20"
 			(at 80.01 62.2299 90)
 			(effects
 				(font
@@ -12716,7 +12596,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D21")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -12908,7 +12788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db6d3ae3-82c2-48f2-8b0e-a3388735ad8c")
-		(property "Reference" "SW43"
+		(property "Reference" "SW42"
 			(at 166.37 74.93 0)
 			(effects
 				(font
@@ -12924,7 +12804,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 166.37 77.47 0)
 			(effects
 				(font
@@ -12960,7 +12840,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW43")
+					(reference "SW42")
 					(unit 1)
 				)
 			)
@@ -12976,7 +12856,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc4a59e8-4fe6-40ae-933b-0255b9b84d1b")
-		(property "Reference" "SW50"
+		(property "Reference" "SW49"
 			(at 54.61 97.79 0)
 			(effects
 				(font
@@ -12992,7 +12872,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 54.61 100.33 0)
 			(effects
 				(font
@@ -13028,7 +12908,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW50")
+					(reference "SW49")
 					(unit 1)
 				)
 			)
@@ -13044,7 +12924,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dd7ce150-1f26-4fe4-881e-0c404801f3f0")
-		(property "Reference" "SW51"
+		(property "Reference" "SW50"
 			(at 68.58 97.79 0)
 			(effects
 				(font
@@ -13060,7 +12940,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 68.58 100.33 0)
 			(effects
 				(font
@@ -13096,7 +12976,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW51")
+					(reference "SW50")
 					(unit 1)
 				)
 			)
@@ -13112,7 +12992,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ddaf854c-4679-4f62-8253-65fc375f17f6")
-		(property "Reference" "D26"
+		(property "Reference" "D25"
 			(at 149.86 62.2299 90)
 			(effects
 				(font
@@ -13184,7 +13064,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D26")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -13200,7 +13080,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df1f3247-18fb-4be7-8ae2-a096a52065f1")
-		(property "Reference" "SW66"
+		(property "Reference" "SW46"
 			(at 236.22 74.93 0)
 			(effects
 				(font
@@ -13216,7 +13096,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 236.22 77.47 0)
 			(effects
 				(font
@@ -13252,7 +13132,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW66")
+					(reference "SW46")
 					(unit 1)
 				)
 			)
@@ -13284,7 +13164,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 40.64 31.75 0)
 			(effects
 				(font
@@ -13336,7 +13216,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df9ee621-c4e5-440e-9720-dc6351756669")
-		(property "Reference" "D70"
+		(property "Reference" "D67"
 			(at 149.86 130.8099 90)
 			(effects
 				(font
@@ -13408,7 +13288,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D70")
+					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -13424,7 +13304,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e010ad8c-304e-45ea-a3ab-0b0e741667a3")
-		(property "Reference" "D25"
+		(property "Reference" "D24"
 			(at 135.89 62.2299 90)
 			(effects
 				(font
@@ -13496,75 +13376,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 250.19 36.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e0785060-87df-4503-a5d0-90029cf32012")
-		(property "Reference" "SW18"
-			(at 250.19 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "end"
-			(at 250.19 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
-			(at 250.19 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "Up Arrow"
-			(at 250.19 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Push button switch, generic, two pins"
-			(at 250.19 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "58ee1a54-7a94-4db1-aebc-bf41802a512b")
-		)
-		(pin "1"
-			(uuid "c4b5fa61-e774-403a-91a3-887f1c278a71")
-		)
-		(instances
-			(project "masterzen_tutorial_pcb_design"
-				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW18")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -13668,7 +13480,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e82f87b5-3293-48d7-8d94-0038d14ea731")
-		(property "Reference" "SW24"
+		(property "Reference" "SW22"
 			(at 110.49 52.07 0)
 			(effects
 				(font
@@ -13684,7 +13496,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 110.49 54.61 0)
 			(effects
 				(font
@@ -13720,7 +13532,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW24")
+					(reference "SW22")
 					(unit 1)
 				)
 			)
@@ -13752,7 +13564,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 180.34 31.75 0)
 			(effects
 				(font
@@ -13804,7 +13616,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea2e5d60-e86b-4833-9b3b-0e43fd4761b3")
-		(property "Reference" "SW60"
+		(property "Reference" "SW59"
 			(at 194.31 97.79 0)
 			(effects
 				(font
@@ -13820,7 +13632,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1.75U-NoLED"
 			(at 194.31 100.33 0)
 			(effects
 				(font
@@ -13856,7 +13668,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW60")
+					(reference "SW59")
 					(unit 1)
 				)
 			)
@@ -13976,7 +13788,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 96.52 31.75 0)
 			(effects
 				(font
@@ -14132,7 +13944,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 152.4 31.75 0)
 			(effects
 				(font
@@ -14184,7 +13996,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f28fc475-64a0-478c-991e-7552eb53bfdc")
-		(property "Reference" "D23"
+		(property "Reference" "D22"
 			(at 107.95 62.2299 90)
 			(effects
 				(font
@@ -14256,7 +14068,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D23")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -14360,7 +14172,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f80ebe30-6505-42db-9fe9-befe3e62e44d")
-		(property "Reference" "SW41"
+		(property "Reference" "SW40"
 			(at 138.43 74.93 0)
 			(effects
 				(font
@@ -14376,7 +14188,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 138.43 77.47 0)
 			(effects
 				(font
@@ -14412,7 +14224,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "SW41")
+					(reference "SW40")
 					(unit 1)
 				)
 			)
@@ -14444,7 +14256,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Alps_Only:ALPS-1U"
+		(property "Footprint" "MX_Only:MXOnly-1U-NoLED"
 			(at 68.58 31.75 0)
 			(effects
 				(font
