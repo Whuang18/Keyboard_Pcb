@@ -459,6 +459,12 @@
 		(uuid "3407dde3-0b82-47ef-9fe8-9fc4b77ccaf1")
 	)
 	(junction
+		(at 250.19 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3566c95b-beca-4670-be59-c2fbb6652dcd")
+	)
+	(junction
 		(at 185.42 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1818,6 +1824,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 44.45) (xy 259.08 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6bba8368-504b-45b5-b534-e0e97396f524")
+	)
+	(wire
+		(pts
 			(xy 157.48 36.83) (xy 157.48 59.69)
 		)
 		(stroke
@@ -1938,7 +1954,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 44.45) (xy 259.08 44.45)
+			(xy 217.17 44.45) (xy 250.19 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2960,22 +2976,22 @@
 	)
 	(global_label "ROT_ENC_ROW"
 		(shape input)
-		(at 257.81 44.45 270)
+		(at 250.19 36.83 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "7d541742-29f1-4fa2-9a06-264859e38b28")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 257.81 60.7399 90)
+			(at 250.19 20.5401 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -3572,7 +3588,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0986b4f4-d1bf-44a5-bb66-4954c5fd6644")
-		(property "Reference" "D34"
+		(property "Reference" "D35"
 			(at 52.07 85.0899 90)
 			(effects
 				(font
@@ -3644,7 +3660,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D34")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -3660,7 +3676,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0989e296-9f81-4196-8a62-e7e078c42e0a")
-		(property "Reference" "D63"
+		(property "Reference" "D64"
 			(at 38.1 130.8099 90)
 			(effects
 				(font
@@ -3732,7 +3748,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D63")
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -3748,7 +3764,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d8fbae9-3e13-4374-b518-e43a5bba3798")
-		(property "Reference" "D70"
+		(property "Reference" "D71"
 			(at 191.77 130.8099 90)
 			(effects
 				(font
@@ -3820,7 +3836,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D70")
+					(reference "D71")
 					(unit 1)
 				)
 			)
@@ -3836,7 +3852,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0defca74-f080-4305-9df2-86706088e88f")
-		(property "Reference" "D69"
+		(property "Reference" "D70"
 			(at 177.8 130.8099 90)
 			(effects
 				(font
@@ -3908,7 +3924,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D69")
+					(reference "D70")
 					(unit 1)
 				)
 			)
@@ -4012,7 +4028,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1675d2d2-70ce-4d5b-9ce8-aea9a3539895")
-		(property "Reference" "D17"
+		(property "Reference" "D18"
 			(at 38.1 62.2299 90)
 			(effects
 				(font
@@ -4084,7 +4100,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D17")
+					(reference "D18")
 					(unit 1)
 				)
 			)
@@ -4324,7 +4340,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16fe5405-9fc9-4333-b057-9fe32f38dc44")
-		(property "Reference" "D35"
+		(property "Reference" "D36"
 			(at 66.04 85.0899 90)
 			(effects
 				(font
@@ -4396,7 +4412,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D35")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -4588,7 +4604,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "211f4a13-8f2e-4543-9b1d-3ff3140e296b")
-		(property "Reference" "D23"
+		(property "Reference" "D24"
 			(at 121.92 62.2299 90)
 			(effects
 				(font
@@ -4660,7 +4676,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D23")
+					(reference "D24")
 					(unit 1)
 				)
 			)
@@ -4744,7 +4760,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "28dd5f15-7427-4270-9719-174d6350826a")
-		(property "Reference" "D21"
+		(property "Reference" "D22"
 			(at 93.98 62.2299 90)
 			(effects
 				(font
@@ -4816,7 +4832,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D21")
+					(reference "D22")
 					(unit 1)
 				)
 			)
@@ -4832,7 +4848,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bf9e978-3bb6-4f3f-9010-d992c6d8a233")
-		(property "Reference" "D55"
+		(property "Reference" "D56"
 			(at 135.89 107.9499 90)
 			(effects
 				(font
@@ -4904,7 +4920,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D55")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -4988,7 +5004,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f14ae36-3437-436f-8e3e-0986135aa9f4")
-		(property "Reference" "D49"
+		(property "Reference" "D50"
 			(at 52.07 107.9499 90)
 			(effects
 				(font
@@ -5060,7 +5076,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D49")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -5300,7 +5316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33ccb107-090c-4ebb-b894-6681f1b84e8b")
-		(property "Reference" "D30"
+		(property "Reference" "D31"
 			(at 219.71 62.2299 90)
 			(effects
 				(font
@@ -5372,7 +5388,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D30")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -5476,7 +5492,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40867b98-85aa-4e21-852f-2458584e307f")
-		(property "Reference" "D27"
+		(property "Reference" "D28"
 			(at 177.8 62.2299 90)
 			(effects
 				(font
@@ -5548,7 +5564,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D27")
+					(reference "D28")
 					(unit 1)
 				)
 			)
@@ -5856,7 +5872,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "497a0cf7-2119-4ee2-8c7d-0f914c4d21d2")
-		(property "Reference" "D73"
+		(property "Reference" "D74"
 			(at 247.65 130.8099 90)
 			(effects
 				(font
@@ -5928,7 +5944,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D73")
+					(reference "D74")
 					(unit 1)
 				)
 			)
@@ -5944,7 +5960,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5264988c-c467-476f-8617-617f9e9295ac")
-		(property "Reference" "D46"
+		(property "Reference" "D47"
 			(at 233.68 85.0899 90)
 			(effects
 				(font
@@ -6016,7 +6032,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D46")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -6032,7 +6048,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52c0af6d-37c4-410c-b2cf-0df70ed6ca9c")
-		(property "Reference" "D66"
+		(property "Reference" "D67"
 			(at 107.95 130.8099 90)
 			(effects
 				(font
@@ -6104,7 +6120,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D66")
+					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -6120,7 +6136,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5326601d-a5ad-4e31-979d-aa27e3c46604")
-		(property "Reference" "D57"
+		(property "Reference" "D58"
 			(at 163.83 107.9499 90)
 			(effects
 				(font
@@ -6192,7 +6208,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D57")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -6208,7 +6224,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56aba4f6-d0bd-494d-928a-bb3893ef086a")
-		(property "Reference" "D58"
+		(property "Reference" "D59"
 			(at 177.8 107.9499 90)
 			(effects
 				(font
@@ -6280,7 +6296,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D58")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -6588,7 +6604,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f99dede-26a7-4c21-9be9-9e595609fdbd")
-		(property "Reference" "D52"
+		(property "Reference" "D53"
 			(at 93.98 107.9499 90)
 			(effects
 				(font
@@ -6660,7 +6676,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D52")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -6832,7 +6848,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6771fc79-11df-4bee-8c1e-2e78f1426196")
-		(property "Reference" "D19"
+		(property "Reference" "D20"
 			(at 66.04 62.2299 90)
 			(effects
 				(font
@@ -6904,7 +6920,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D19")
+					(reference "D20")
 					(unit 1)
 				)
 			)
@@ -6988,7 +7004,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6da1dcfb-9bf5-4666-9fcb-b93b24d59425")
-		(property "Reference" "D50"
+		(property "Reference" "D51"
 			(at 66.04 107.9499 90)
 			(effects
 				(font
@@ -7060,7 +7076,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D50")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -7232,7 +7248,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75241cd7-b5f4-4edd-ae91-33540278f862")
-		(property "Reference" "D44"
+		(property "Reference" "D45"
 			(at 191.77 85.0899 90)
 			(effects
 				(font
@@ -7304,7 +7320,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D44")
+					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -7524,7 +7540,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78b5d345-485f-4d72-99a7-98f0bb5b2510")
-		(property "Reference" "D32"
+		(property "Reference" "D33"
 			(at 247.65 62.2299 90)
 			(effects
 				(font
@@ -7596,7 +7612,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D32")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -7680,7 +7696,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b0ca5f2-168f-4cee-9642-f5301fe87d51")
-		(property "Reference" "D62"
+		(property "Reference" "D63"
 			(at 247.65 107.9499 90)
 			(effects
 				(font
@@ -7752,7 +7768,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D62")
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -8108,7 +8124,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "885a926f-2bfa-444e-9cfe-0487537b28dc")
-		(property "Reference" "D38"
+		(property "Reference" "D39"
 			(at 107.95 85.0899 90)
 			(effects
 				(font
@@ -8180,7 +8196,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D38")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -8400,7 +8416,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f2150dc-9d32-4667-9bad-e74a232cf5dd")
-		(property "Reference" "D61"
+		(property "Reference" "D62"
 			(at 233.68 107.9499 90)
 			(effects
 				(font
@@ -8472,7 +8488,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D61")
+					(reference "D62")
 					(unit 1)
 				)
 			)
@@ -8556,7 +8572,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9440b984-f236-4abc-8baa-caf0de1eef19")
-		(property "Reference" "D53"
+		(property "Reference" "D54"
 			(at 107.95 107.9499 90)
 			(effects
 				(font
@@ -8628,7 +8644,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D53")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -8644,7 +8660,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "960abb8b-f983-4f3e-87c8-e99bfe61ab2e")
-		(property "Reference" "D45"
+		(property "Reference" "D46"
 			(at 205.74 85.0899 90)
 			(effects
 				(font
@@ -8716,7 +8732,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D45")
+					(reference "D46")
 					(unit 1)
 				)
 			)
@@ -9092,7 +9108,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3807f7e-c553-4c6f-a1cd-fb73e14ba2ef")
-		(property "Reference" "D28"
+		(property "Reference" "D29"
 			(at 191.77 62.2299 90)
 			(effects
 				(font
@@ -9164,7 +9180,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D28")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -9540,7 +9556,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa828ffc-6825-4cd6-b5f6-3dc31e134c41")
-		(property "Reference" "D68"
+		(property "Reference" "D69"
 			(at 163.83 130.8099 90)
 			(effects
 				(font
@@ -9612,7 +9628,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D68")
+					(reference "D69")
 					(unit 1)
 				)
 			)
@@ -9696,7 +9712,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad0ec975-0ee1-4f0b-a0a0-b5564d14a47e")
-		(property "Reference" "D54"
+		(property "Reference" "D55"
 			(at 121.92 107.9499 90)
 			(effects
 				(font
@@ -9768,7 +9784,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D54")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -9852,7 +9868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "adc971e3-0239-4aa5-bbae-eb013340250d")
-		(property "Reference" "D64"
+		(property "Reference" "D65"
 			(at 52.07 130.8099 90)
 			(effects
 				(font
@@ -9924,7 +9940,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D64")
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -9940,7 +9956,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b09bf096-88f4-448c-a39c-f538d249a681")
-		(property "Reference" "D43"
+		(property "Reference" "D44"
 			(at 177.8 85.0899 90)
 			(effects
 				(font
@@ -10012,7 +10028,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D43")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -10028,7 +10044,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0ca7663-192d-467a-9827-1b6a1b46950e")
-		(property "Reference" "D39"
+		(property "Reference" "D40"
 			(at 121.92 85.0899 90)
 			(effects
 				(font
@@ -10100,7 +10116,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D39")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -10272,7 +10288,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd73025c-3439-430c-bf8c-0c8c699cfa5e")
-		(property "Reference" "D65"
+		(property "Reference" "D66"
 			(at 66.04 130.8099 90)
 			(effects
 				(font
@@ -10344,7 +10360,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D65")
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -10496,7 +10512,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0cf045e-2ad0-4d96-ae02-12f0d673cfc7")
-		(property "Reference" "D60"
+		(property "Reference" "D61"
 			(at 205.74 107.9499 90)
 			(effects
 				(font
@@ -10568,7 +10584,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D60")
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -10584,7 +10600,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c21f17e2-eba2-4714-90d9-f4de334ad5d6")
-		(property "Reference" "D31"
+		(property "Reference" "D32"
 			(at 233.68 62.2299 90)
 			(effects
 				(font
@@ -10656,7 +10672,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D31")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -10672,7 +10688,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c311ea03-1676-4cd1-bd7b-0a364283e692")
-		(property "Reference" "D40"
+		(property "Reference" "D41"
 			(at 135.89 85.0899 90)
 			(effects
 				(font
@@ -10744,7 +10760,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D40")
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -10848,7 +10864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c424050c-252d-47ba-8718-5ec824c7b9f2")
-		(property "Reference" "D26"
+		(property "Reference" "D27"
 			(at 163.83 62.2299 90)
 			(effects
 				(font
@@ -10920,7 +10936,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D26")
+					(reference "D27")
 					(unit 1)
 				)
 			)
@@ -11004,7 +11020,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5056c70-640a-4597-9878-c7cc23cc6ef0")
-		(property "Reference" "D37"
+		(property "Reference" "D38"
 			(at 93.98 85.0899 90)
 			(effects
 				(font
@@ -11076,7 +11092,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D37")
+					(reference "D38")
 					(unit 1)
 				)
 			)
@@ -11296,7 +11312,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c876c0bc-7d64-482d-964d-7fc2664fb57b")
-		(property "Reference" "D36"
+		(property "Reference" "D37"
 			(at 80.01 85.0899 90)
 			(effects
 				(font
@@ -11368,7 +11384,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D36")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -11588,7 +11604,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca81a978-c074-4c82-bc62-ed1dbd4609a0")
-		(property "Reference" "D59"
+		(property "Reference" "D60"
 			(at 191.77 107.9499 90)
 			(effects
 				(font
@@ -11660,7 +11676,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D59")
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -11676,7 +11692,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb826469-ff96-4343-b93a-a3870ff82678")
-		(property "Reference" "D72"
+		(property "Reference" "D73"
 			(at 233.68 130.8099 90)
 			(effects
 				(font
@@ -11748,7 +11764,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D72")
+					(reference "D73")
 					(unit 1)
 				)
 			)
@@ -11764,7 +11780,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd45841c-04ad-458c-8c1f-84be2b6e8b65")
-		(property "Reference" "D29"
+		(property "Reference" "D30"
 			(at 205.74 62.2299 90)
 			(effects
 				(font
@@ -11836,7 +11852,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D29")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -11852,7 +11868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd6cff83-7964-4540-ab43-0ecae8b13a05")
-		(property "Reference" "D18"
+		(property "Reference" "D19"
 			(at 52.07 62.2299 90)
 			(effects
 				(font
@@ -11924,7 +11940,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D18")
+					(reference "D19")
 					(unit 1)
 				)
 			)
@@ -12008,7 +12024,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cdbb2857-cfa7-48fa-a586-f81725140148")
-		(property "Reference" "D71"
+		(property "Reference" "D72"
 			(at 205.74 130.8099 90)
 			(effects
 				(font
@@ -12080,7 +12096,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D71")
+					(reference "D72")
 					(unit 1)
 				)
 			)
@@ -12164,7 +12180,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0afbccf-bbda-451d-b0d1-054b33deaedf")
-		(property "Reference" "D33"
+		(property "Reference" "D34"
 			(at 38.1 85.0899 90)
 			(effects
 				(font
@@ -12236,7 +12252,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D33")
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -12524,7 +12540,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da2a0d4b-c8a2-43ca-ba6e-123bce144bb9")
-		(property "Reference" "D20"
+		(property "Reference" "D21"
 			(at 80.01 62.2299 90)
 			(effects
 				(font
@@ -12596,7 +12612,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D20")
+					(reference "D21")
 					(unit 1)
 				)
 			)
@@ -12612,7 +12628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "da8d63b8-7dc7-4209-a624-b220cd0489bb")
-		(property "Reference" "D47"
+		(property "Reference" "D48"
 			(at 247.65 85.0899 90)
 			(effects
 				(font
@@ -12684,7 +12700,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D47")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -12700,7 +12716,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db2e6436-46e2-4a1b-a472-13b11ba4e33f")
-		(property "Reference" "D51"
+		(property "Reference" "D52"
 			(at 80.01 107.9499 90)
 			(effects
 				(font
@@ -12772,7 +12788,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D51")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -12992,7 +13008,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ddaf854c-4679-4f62-8253-65fc375f17f6")
-		(property "Reference" "D25"
+		(property "Reference" "D26"
 			(at 149.86 62.2299 90)
 			(effects
 				(font
@@ -13064,7 +13080,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D25")
+					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -13216,7 +13232,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df9ee621-c4e5-440e-9720-dc6351756669")
-		(property "Reference" "D67"
+		(property "Reference" "D68"
 			(at 149.86 130.8099 90)
 			(effects
 				(font
@@ -13288,7 +13304,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D67")
+					(reference "D68")
 					(unit 1)
 				)
 			)
@@ -13304,7 +13320,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e010ad8c-304e-45ea-a3ab-0b0e741667a3")
-		(property "Reference" "D24"
+		(property "Reference" "D25"
 			(at 135.89 62.2299 90)
 			(effects
 				(font
@@ -13376,7 +13392,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D24")
+					(reference "D25")
 					(unit 1)
 				)
 			)
@@ -13392,7 +13408,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e079c87f-3cac-4b06-87ba-a9b531aec1c3")
-		(property "Reference" "D41"
+		(property "Reference" "D42"
 			(at 149.86 85.0899 90)
 			(effects
 				(font
@@ -13464,7 +13480,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D41")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -13684,7 +13700,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee82db95-589f-42da-ade4-83b936868544")
-		(property "Reference" "D48"
+		(property "Reference" "D49"
 			(at 38.1 107.9499 90)
 			(effects
 				(font
@@ -13756,7 +13772,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D48")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -13840,7 +13856,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eecc876b-2c93-4ac0-85c6-d89a07ae7b3d")
-		(property "Reference" "D56"
+		(property "Reference" "D57"
 			(at 149.86 107.9499 90)
 			(effects
 				(font
@@ -13912,7 +13928,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D56")
+					(reference "D57")
 					(unit 1)
 				)
 			)
@@ -13996,7 +14012,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f28fc475-64a0-478c-991e-7552eb53bfdc")
-		(property "Reference" "D22"
+		(property "Reference" "D23"
 			(at 107.95 62.2299 90)
 			(effects
 				(font
@@ -14068,7 +14084,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D22")
+					(reference "D23")
 					(unit 1)
 				)
 			)
@@ -14084,7 +14100,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7f4dc44-5d84-4dd3-93fa-a6415070bf03")
-		(property "Reference" "D42"
+		(property "Reference" "D43"
 			(at 163.83 85.0899 90)
 			(effects
 				(font
@@ -14156,7 +14172,7 @@
 		(instances
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
-					(reference "D42")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -14225,6 +14241,94 @@
 			(project "masterzen_tutorial_pcb_design"
 				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
 					(reference "SW40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 250.19 40.64 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fe64eacf-f0f8-44c9-b892-8e8da8901dc8")
+		(property "Reference" "D17"
+			(at 252.73 39.3699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 252.73 41.9099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-123"
+			(at 250.19 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 250.19 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 250.19 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 250.19 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 250.19 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8295ab7c-7d49-45bc-b382-add0e63a0e96")
+		)
+		(pin "2"
+			(uuid "20e871e2-92c9-4e56-acb3-868522e4f810")
+		)
+		(instances
+			(project "masterzen_tutorial_pcb_design"
+				(path "/43ab7f41-8dc3-471f-b30f-d5100c2539fd/90768461-4630-4a46-a2ed-61278ba9fbf1"
+					(reference "D17")
 					(unit 1)
 				)
 			)
