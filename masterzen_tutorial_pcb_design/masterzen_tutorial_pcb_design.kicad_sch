@@ -4567,12 +4567,6 @@
 		(uuid "f934fe99-994a-4789-af47-202c2fb5057b")
 	)
 	(junction
-		(at 67.31 92.71)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fa55f514-77d9-4c3d-9769-9d31b7980cc7")
-	)
-	(junction
 		(at 207.01 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4685,16 +4679,6 @@
 			(type default)
 		)
 		(uuid "16305806-e738-43d5-bb3f-14393ab3d290")
-	)
-	(wire
-		(pts
-			(xy 67.31 92.71) (xy 101.6 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16786c9a-b014-4c98-b6c5-60d0f7ef4c4f")
 	)
 	(wire
 		(pts
@@ -4868,7 +4852,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 92.71) (xy 67.31 92.71)
+			(xy 53.34 92.71) (xy 101.6 92.71)
 		)
 		(stroke
 			(width 0)
@@ -6027,8 +6011,8 @@
 		(uuid "fe738bbd-1db4-4a78-af79-74a075fcf234")
 	)
 	(rectangle
-		(start 123.19 26.67)
-		(end 252.73 153.67)
+		(start 123.19 25.4)
+		(end 252.73 157.48)
 		(stroke
 			(width 0)
 			(type default)
@@ -6236,6 +6220,72 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "XTAL_IN"
+		(shape input)
+		(at 156.21 77.47 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "58cda302-f742-41f0-825b-7ea544645324")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.21 67.2881 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "XTAL_OUT"
+		(shape input)
+		(at 170.18 88.9 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "61e15e1e-959e-4f55-b4a1-84071b58cbff")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 170.18 100.7752 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PC15"
+		(shape input)
+		(at 182.88 114.3 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "73f52ef1-3c17-4696-bd53-766f55676738")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 182.88 122.2442 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -6869,7 +6919,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Ferrite_THT:LairdTech_28C0236-0JW-10"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 234.95 42.418 90)
 			(effects
 				(font
@@ -9451,7 +9501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric"
 			(at 74.93 76.2 0)
 			(effects
 				(font
